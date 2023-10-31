@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block body %}
+    <center>
+    <form method="POST" action="/show_data">
+    <h2><label for="team">Choose an Option:</label><p></p></h2>
+    <select name="team">
+        <option selected="true" disabled="disabled" value="" hidden>Choose one option</option>
+        {% for team in options %}
+            <option value="{{team}}">{{team}}</option>
+        {% endfor %}
+    </select>
+    <br></br>
+    <center><input type="submit" value="Show CSV file"></center>
+    </form>
+    {% if csv!=None -%}
+        {% if teamname in teams %}
+            <p><a href="{{ url_for('openexcel', filename=''.join(['Patrol Plan for ', teamname, '.xlsx'])) }}" class="btn btn-primary">
+                <center><button>Download this Excel File</button></center>
+            </a></p>
+            <center>Patrol Plan for {{ teamname }}:</center>
+        {% else %}
+            <p><a href="{{ url_for('openexcel', filename=''.join([teamname, '.xlsx'])) }}" class="btn btn-primary">
+                <center><button>Download this Excel File</button></center>
+            </a></p>
+            <center>{{ teamname }}:</center>
+        {% endif %}
+        <center>{{ csv|safe }}</center>
+    {%- endif %}
+    <br></br>
+    <form method="POST" action="/download_all">
+        <center><input type="submit" name="download option" value="Download ALL Patrol Plans Excel files"></center> 
+        <br></br>
+        <center><input type="submit" name="download option" value="Download ALL Patrol Plans, Table of Summary and Travel Times Excel files"></center> 
+    </form>
+    </center>
+{% endblock %}

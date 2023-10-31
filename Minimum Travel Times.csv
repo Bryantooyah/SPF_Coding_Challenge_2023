@@ -1,0 +1,1713 @@
+,Start,End,Min Time
+0,Atmosfear,Auvilotops Express,5.783333333333333
+1,Atmosfear,Beelzebufo,6.733333333333333
+2,Atmosfear,Blue Iguanodon,8.65
+3,Atmosfear,Central Park Entrance 1,2.0833333333333335
+4,Atmosfear,Central Park Entrance 2,2.6
+5,Atmosfear,Central Park Entrance 3,2.9166666666666665
+6,Atmosfear,Creighton Pavilion,2.65
+7,Atmosfear,Cyndisaurus Asteroid,7.116666666666666
+8,Atmosfear,Dykesadactyl Thrill,3.7
+9,Atmosfear,East Entrance,5.016666666666667
+10,Atmosfear,Eberlesaurus Roundup,4.966666666666667
+11,Atmosfear,Enchanted Toadstools,6.766666666666667
+12,Atmosfear,Firefall,3.1
+13,Atmosfear,Flight of the Swingodon,2.8
+14,Atmosfear,Flying TyrAndrienkos,7.65
+15,Atmosfear,Galactosaurus Rage,2.2666666666666666
+16,Atmosfear,Ichthyoroberts Rapids,3.8
+17,Atmosfear,Jeredactyl Jump,6.483333333333333
+18,Atmosfear,Jurassic Road,4.916666666666667
+19,Atmosfear,Kauf's Lost Canyon Escape,3.6333333333333333
+20,Atmosfear,Keimosaurus Big Spin,3.5
+21,Atmosfear,Kristanodon Kaper,4.5
+22,Atmosfear,Liggement Fix-Me-Up,6.566666666666666
+23,Atmosfear,Maiasaurus Madness,3.9
+24,Atmosfear,Mary Anning Beer Garden/Grinosaurus Stage,3.8
+25,Atmosfear,North Entrance,6.65
+26,Atmosfear,North Line,7.283333333333333
+27,Atmosfear,Paleocarrie Carousel,5.466666666666667
+28,Atmosfear,Raptor Race,5.366666666666666
+29,Atmosfear,Rhynasaurus Rampage,3.85
+30,Atmosfear,SabreTooth Theatre,5.2
+31,Atmosfear,Sauroma Bumpers,6.333333333333333
+32,Atmosfear,Scholtz Express,4.0
+33,Atmosfear,Squidosaur,6.583333333333333
+34,Atmosfear,Stegocycles,7.65
+35,Atmosfear,Stone Cups,9.233333333333333
+36,Atmosfear,TerrorSaur,3.2
+37,Atmosfear,Wendisaurus Chase,5.1
+38,Atmosfear,West Entrance,6.4
+39,Atmosfear,Wild Jungle Cruise,7.466666666666667
+40,Atmosfear,Wrightiraptor Mountain,1.8666666666666667
+41,Auvilotops Express,Atmosfear,5.783333333333333
+42,Auvilotops Express,Beelzebufo,7.4
+43,Auvilotops Express,Blue Iguanodon,6.766666666666667
+44,Auvilotops Express,Central Park Entrance 1,7.15
+45,Auvilotops Express,Central Park Entrance 2,7.0
+46,Auvilotops Express,Central Park Entrance 3,6.783333333333333
+47,Auvilotops Express,Creighton Pavilion,6.716666666666667
+48,Auvilotops Express,Cyndisaurus Asteroid,7.416666666666667
+49,Auvilotops Express,Dykesadactyl Thrill,6.133333333333334
+50,Auvilotops Express,East Entrance,3.95
+51,Auvilotops Express,Eberlesaurus Roundup,4.883333333333334
+52,Auvilotops Express,Enchanted Toadstools,7.45
+53,Auvilotops Express,Firefall,5.416666666666667
+54,Auvilotops Express,Flight of the Swingodon,6.266666666666667
+55,Auvilotops Express,Flying TyrAndrienkos,6.333333333333333
+56,Auvilotops Express,Galactosaurus Rage,7.3
+57,Auvilotops Express,Ichthyoroberts Rapids,8.166666666666666
+58,Auvilotops Express,Jeredactyl Jump,7.25
+59,Auvilotops Express,Jurassic Road,7.4
+60,Auvilotops Express,Kauf's Lost Canyon Escape,5.466666666666667
+61,Auvilotops Express,Keimosaurus Big Spin,6.733333333333333
+62,Auvilotops Express,Kristanodon Kaper,4.9
+63,Auvilotops Express,Liggement Fix-Me-Up,6.833333333333333
+64,Auvilotops Express,Maiasaurus Madness,6.333333333333333
+65,Auvilotops Express,Mary Anning Beer Garden/Grinosaurus Stage,11.2
+66,Auvilotops Express,North Entrance,3.7
+67,Auvilotops Express,North Line,8.85
+68,Auvilotops Express,Paleocarrie Carousel,5.1
+69,Auvilotops Express,Raptor Race,4.266666666666667
+70,Auvilotops Express,Rhynasaurus Rampage,6.566666666666666
+71,Auvilotops Express,SabreTooth Theatre,5.55
+72,Auvilotops Express,Sauroma Bumpers,6.9
+73,Auvilotops Express,Scholtz Express,6.266666666666667
+74,Auvilotops Express,Squidosaur,3.55
+75,Auvilotops Express,Stegocycles,7.716666666666667
+76,Auvilotops Express,Stone Cups,7.716666666666667
+77,Auvilotops Express,TerrorSaur,6.666666666666667
+78,Auvilotops Express,Wendisaurus Chase,5.283333333333333
+79,Auvilotops Express,West Entrance,3.7666666666666666
+80,Auvilotops Express,Wild Jungle Cruise,7.833333333333333
+81,Auvilotops Express,Wrightiraptor Mountain,7.483333333333333
+82,Beelzebufo,Atmosfear,6.733333333333333
+83,Beelzebufo,Auvilotops Express,7.4
+84,Beelzebufo,Blue Iguanodon,4.333333333333333
+85,Beelzebufo,Central Park Entrance 1,13.383333333333333
+86,Beelzebufo,Central Park Entrance 2,8.05
+87,Beelzebufo,Central Park Entrance 3,10.216666666666667
+88,Beelzebufo,Creighton Pavilion,11.9
+89,Beelzebufo,Cyndisaurus Asteroid,5.116666666666666
+90,Beelzebufo,Dykesadactyl Thrill,8.7
+91,Beelzebufo,East Entrance,3.65
+92,Beelzebufo,Eberlesaurus Roundup,11.8
+93,Beelzebufo,Enchanted Toadstools,4.5
+94,Beelzebufo,Firefall,12.0
+95,Beelzebufo,Flight of the Swingodon,8.216666666666667
+96,Beelzebufo,Flying TyrAndrienkos,5.566666666666666
+97,Beelzebufo,Galactosaurus Rage,9.983333333333333
+98,Beelzebufo,Ichthyoroberts Rapids,8.833333333333334
+99,Beelzebufo,Jeredactyl Jump,5.95
+100,Beelzebufo,Jurassic Road,12.183333333333334
+101,Beelzebufo,Kauf's Lost Canyon Escape,12.45
+102,Beelzebufo,Keimosaurus Big Spin,8.6
+103,Beelzebufo,Kristanodon Kaper,9.65
+104,Beelzebufo,Liggement Fix-Me-Up,1000.0
+105,Beelzebufo,Maiasaurus Madness,11.916666666666666
+106,Beelzebufo,Mary Anning Beer Garden/Grinosaurus Stage,10.3
+107,Beelzebufo,North Entrance,3.6333333333333333
+108,Beelzebufo,North Line,6.25
+109,Beelzebufo,Paleocarrie Carousel,10.75
+110,Beelzebufo,Raptor Race,8.3
+111,Beelzebufo,Rhynasaurus Rampage,12.133333333333333
+112,Beelzebufo,SabreTooth Theatre,7.95
+113,Beelzebufo,Sauroma Bumpers,4.566666666666666
+114,Beelzebufo,Scholtz Express,13.5
+115,Beelzebufo,Squidosaur,7.083333333333333
+116,Beelzebufo,Stegocycles,5.316666666666666
+117,Beelzebufo,Stone Cups,4.1
+118,Beelzebufo,TerrorSaur,9.783333333333333
+119,Beelzebufo,Wendisaurus Chase,10.916666666666666
+120,Beelzebufo,Wild Jungle Cruise,4.9
+121,Beelzebufo,Wrightiraptor Mountain,9.483333333333333
+122,Blue Iguanodon,Atmosfear,8.65
+123,Blue Iguanodon,Auvilotops Express,6.766666666666667
+124,Blue Iguanodon,Beelzebufo,4.333333333333333
+125,Blue Iguanodon,Central Park Entrance 1,9.883333333333333
+126,Blue Iguanodon,Central Park Entrance 2,7.3
+127,Blue Iguanodon,Central Park Entrance 3,10.883333333333333
+128,Blue Iguanodon,Creighton Pavilion,11.75
+129,Blue Iguanodon,Cyndisaurus Asteroid,4.283333333333333
+130,Blue Iguanodon,Dykesadactyl Thrill,8.866666666666667
+131,Blue Iguanodon,East Entrance,2.4166666666666665
+132,Blue Iguanodon,Eberlesaurus Roundup,10.716666666666667
+133,Blue Iguanodon,Enchanted Toadstools,3.65
+134,Blue Iguanodon,Firefall,10.716666666666667
+135,Blue Iguanodon,Flight of the Swingodon,8.966666666666667
+136,Blue Iguanodon,Flying TyrAndrienkos,4.483333333333333
+137,Blue Iguanodon,Galactosaurus Rage,10.2
+138,Blue Iguanodon,Ichthyoroberts Rapids,8.016666666666667
+139,Blue Iguanodon,Jeredactyl Jump,4.75
+140,Blue Iguanodon,Jurassic Road,11.916666666666666
+141,Blue Iguanodon,Kauf's Lost Canyon Escape,9.85
+142,Blue Iguanodon,Keimosaurus Big Spin,7.133333333333334
+143,Blue Iguanodon,Kristanodon Kaper,8.266666666666667
+144,Blue Iguanodon,Maiasaurus Madness,10.15
+145,Blue Iguanodon,Mary Anning Beer Garden/Grinosaurus Stage,12.783333333333333
+146,Blue Iguanodon,North Entrance,3.066666666666667
+147,Blue Iguanodon,North Line,5.05
+148,Blue Iguanodon,Paleocarrie Carousel,8.95
+149,Blue Iguanodon,Raptor Race,7.75
+150,Blue Iguanodon,Rhynasaurus Rampage,11.7
+151,Blue Iguanodon,SabreTooth Theatre,8.15
+152,Blue Iguanodon,Sauroma Bumpers,5.316666666666666
+153,Blue Iguanodon,Scholtz Express,14.8
+154,Blue Iguanodon,Squidosaur,7.383333333333334
+155,Blue Iguanodon,Stegocycles,4.616666666666666
+156,Blue Iguanodon,Stone Cups,5.116666666666666
+157,Blue Iguanodon,TerrorSaur,9.016666666666667
+158,Blue Iguanodon,Wendisaurus Chase,9.533333333333333
+159,Blue Iguanodon,West Entrance,9.316666666666666
+160,Blue Iguanodon,Wild Jungle Cruise,4.233333333333333
+161,Blue Iguanodon,Wrightiraptor Mountain,9.683333333333334
+162,Central Park Entrance 1,Atmosfear,2.0833333333333335
+163,Central Park Entrance 1,Auvilotops Express,7.15
+164,Central Park Entrance 1,Beelzebufo,13.383333333333333
+165,Central Park Entrance 1,Blue Iguanodon,9.883333333333333
+166,Central Park Entrance 1,Central Park Entrance 2,9.383333333333333
+167,Central Park Entrance 1,Central Park Entrance 3,8.716666666666667
+168,Central Park Entrance 1,Creighton Pavilion,6.25
+169,Central Park Entrance 1,Cyndisaurus Asteroid,11.966666666666667
+170,Central Park Entrance 1,Dykesadactyl Thrill,5.283333333333333
+171,Central Park Entrance 1,East Entrance,5.416666666666667
+172,Central Park Entrance 1,Eberlesaurus Roundup,8.166666666666666
+173,Central Park Entrance 1,Enchanted Toadstools,13.683333333333334
+174,Central Park Entrance 1,Firefall,7.066666666666666
+175,Central Park Entrance 1,Flight of the Swingodon,8.683333333333334
+176,Central Park Entrance 1,Flying TyrAndrienkos,12.066666666666666
+177,Central Park Entrance 1,Galactosaurus Rage,3.9833333333333334
+178,Central Park Entrance 1,Ichthyoroberts Rapids,7.366666666666666
+179,Central Park Entrance 1,Jeredactyl Jump,14.466666666666667
+180,Central Park Entrance 1,Jurassic Road,11.016666666666667
+181,Central Park Entrance 1,Kauf's Lost Canyon Escape,10.85
+182,Central Park Entrance 1,Keimosaurus Big Spin,7.116666666666666
+183,Central Park Entrance 1,Kristanodon Kaper,11.133333333333333
+184,Central Park Entrance 1,Liggement Fix-Me-Up,30.633333333333333
+185,Central Park Entrance 1,Maiasaurus Madness,8.166666666666666
+186,Central Park Entrance 1,Mary Anning Beer Garden/Grinosaurus Stage,7.683333333333334
+187,Central Park Entrance 1,North Entrance,8.033333333333333
+188,Central Park Entrance 1,North Line,17.95
+189,Central Park Entrance 1,Paleocarrie Carousel,13.5
+190,Central Park Entrance 1,Raptor Race,10.716666666666667
+191,Central Park Entrance 1,Rhynasaurus Rampage,6.9
+192,Central Park Entrance 1,SabreTooth Theatre,13.483333333333333
+193,Central Park Entrance 1,Sauroma Bumpers,12.966666666666667
+194,Central Park Entrance 1,Scholtz Express,12.916666666666666
+195,Central Park Entrance 1,Squidosaur,11.283333333333333
+196,Central Park Entrance 1,Stegocycles,11.283333333333333
+197,Central Park Entrance 1,Stone Cups,11.133333333333333
+198,Central Park Entrance 1,TerrorSaur,6.333333333333333
+199,Central Park Entrance 1,Wendisaurus Chase,8.483333333333333
+200,Central Park Entrance 1,West Entrance,4.8
+201,Central Park Entrance 1,Wild Jungle Cruise,11.066666666666666
+202,Central Park Entrance 1,Wrightiraptor Mountain,4.2
+203,Central Park Entrance 2,Atmosfear,2.6
+204,Central Park Entrance 2,Auvilotops Express,7.0
+205,Central Park Entrance 2,Beelzebufo,8.05
+206,Central Park Entrance 2,Blue Iguanodon,7.3
+207,Central Park Entrance 2,Central Park Entrance 1,9.383333333333333
+208,Central Park Entrance 2,Central Park Entrance 3,6.7
+209,Central Park Entrance 2,Creighton Pavilion,6.916666666666667
+210,Central Park Entrance 2,Cyndisaurus Asteroid,8.916666666666666
+211,Central Park Entrance 2,Dykesadactyl Thrill,3.85
+212,Central Park Entrance 2,East Entrance,8.683333333333334
+213,Central Park Entrance 2,Eberlesaurus Roundup,6.966666666666667
+214,Central Park Entrance 2,Enchanted Toadstools,8.833333333333334
+215,Central Park Entrance 2,Firefall,7.5
+216,Central Park Entrance 2,Flight of the Swingodon,6.066666666666666
+217,Central Park Entrance 2,Flying TyrAndrienkos,12.466666666666667
+218,Central Park Entrance 2,Galactosaurus Rage,5.4
+219,Central Park Entrance 2,Ichthyoroberts Rapids,6.65
+220,Central Park Entrance 2,Jeredactyl Jump,10.983333333333333
+221,Central Park Entrance 2,Jurassic Road,9.733333333333333
+222,Central Park Entrance 2,Kauf's Lost Canyon Escape,8.0
+223,Central Park Entrance 2,Keimosaurus Big Spin,6.466666666666667
+224,Central Park Entrance 2,Kristanodon Kaper,7.733333333333333
+225,Central Park Entrance 2,Liggement Fix-Me-Up,4.233333333333333
+226,Central Park Entrance 2,Maiasaurus Madness,7.883333333333334
+227,Central Park Entrance 2,Mary Anning Beer Garden/Grinosaurus Stage,7.783333333333333
+228,Central Park Entrance 2,North Entrance,4.733333333333333
+229,Central Park Entrance 2,North Line,11.733333333333333
+230,Central Park Entrance 2,Paleocarrie Carousel,10.45
+231,Central Park Entrance 2,Raptor Race,8.15
+232,Central Park Entrance 2,Rhynasaurus Rampage,7.733333333333333
+233,Central Park Entrance 2,SabreTooth Theatre,10.75
+234,Central Park Entrance 2,Sauroma Bumpers,11.266666666666667
+235,Central Park Entrance 2,Scholtz Express,16.4
+236,Central Park Entrance 2,Squidosaur,10.75
+237,Central Park Entrance 2,Stegocycles,10.616666666666667
+238,Central Park Entrance 2,Stone Cups,8.066666666666666
+239,Central Park Entrance 2,TerrorSaur,4.966666666666667
+240,Central Park Entrance 2,Wendisaurus Chase,8.25
+241,Central Park Entrance 2,West Entrance,6.183333333333334
+242,Central Park Entrance 2,Wild Jungle Cruise,10.4
+243,Central Park Entrance 2,Wrightiraptor Mountain,4.15
+244,Central Park Entrance 3,Atmosfear,2.9166666666666665
+245,Central Park Entrance 3,Auvilotops Express,6.783333333333333
+246,Central Park Entrance 3,Beelzebufo,10.216666666666667
+247,Central Park Entrance 3,Blue Iguanodon,10.883333333333333
+248,Central Park Entrance 3,Central Park Entrance 1,8.716666666666667
+249,Central Park Entrance 3,Central Park Entrance 2,6.7
+250,Central Park Entrance 3,Creighton Pavilion,8.5
+251,Central Park Entrance 3,Cyndisaurus Asteroid,11.25
+252,Central Park Entrance 3,Dykesadactyl Thrill,4.866666666666666
+253,Central Park Entrance 3,East Entrance,5.166666666666667
+254,Central Park Entrance 3,Eberlesaurus Roundup,8.4
+255,Central Park Entrance 3,Enchanted Toadstools,9.65
+256,Central Park Entrance 3,Firefall,6.25
+257,Central Park Entrance 3,Flight of the Swingodon,6.983333333333333
+258,Central Park Entrance 3,Flying TyrAndrienkos,11.283333333333333
+259,Central Park Entrance 3,Galactosaurus Rage,5.45
+260,Central Park Entrance 3,Ichthyoroberts Rapids,7.933333333333334
+261,Central Park Entrance 3,Jeredactyl Jump,10.416666666666666
+262,Central Park Entrance 3,Jurassic Road,8.966666666666667
+263,Central Park Entrance 3,Kauf's Lost Canyon Escape,8.7
+264,Central Park Entrance 3,Keimosaurus Big Spin,5.333333333333333
+265,Central Park Entrance 3,Kristanodon Kaper,8.616666666666667
+266,Central Park Entrance 3,Liggement Fix-Me-Up,23.116666666666667
+267,Central Park Entrance 3,Maiasaurus Madness,7.233333333333333
+268,Central Park Entrance 3,Mary Anning Beer Garden/Grinosaurus Stage,6.416666666666667
+269,Central Park Entrance 3,North Entrance,6.466666666666667
+270,Central Park Entrance 3,North Line,17.25
+271,Central Park Entrance 3,Paleocarrie Carousel,10.816666666666666
+272,Central Park Entrance 3,Raptor Race,7.85
+273,Central Park Entrance 3,Rhynasaurus Rampage,7.0
+274,Central Park Entrance 3,SabreTooth Theatre,11.283333333333333
+275,Central Park Entrance 3,Sauroma Bumpers,12.066666666666666
+276,Central Park Entrance 3,Scholtz Express,7.0
+277,Central Park Entrance 3,Squidosaur,8.95
+278,Central Park Entrance 3,Stegocycles,12.4
+279,Central Park Entrance 3,Stone Cups,8.25
+280,Central Park Entrance 3,TerrorSaur,3.5
+281,Central Park Entrance 3,Wendisaurus Chase,8.0
+282,Central Park Entrance 3,West Entrance,5.083333333333333
+283,Central Park Entrance 3,Wild Jungle Cruise,10.416666666666666
+284,Central Park Entrance 3,Wrightiraptor Mountain,4.216666666666667
+285,Creighton Pavilion,Atmosfear,2.65
+286,Creighton Pavilion,Auvilotops Express,6.716666666666667
+287,Creighton Pavilion,Beelzebufo,11.9
+288,Creighton Pavilion,Blue Iguanodon,11.75
+289,Creighton Pavilion,Central Park Entrance 1,6.25
+290,Creighton Pavilion,Central Park Entrance 2,6.916666666666667
+291,Creighton Pavilion,Central Park Entrance 3,8.5
+292,Creighton Pavilion,Cyndisaurus Asteroid,12.45
+293,Creighton Pavilion,Dykesadactyl Thrill,6.583333333333333
+294,Creighton Pavilion,East Entrance,5.783333333333333
+295,Creighton Pavilion,Eberlesaurus Roundup,6.85
+296,Creighton Pavilion,Enchanted Toadstools,11.366666666666667
+297,Creighton Pavilion,Firefall,5.166666666666667
+298,Creighton Pavilion,Flight of the Swingodon,7.25
+299,Creighton Pavilion,Flying TyrAndrienkos,12.783333333333333
+300,Creighton Pavilion,Galactosaurus Rage,4.45
+301,Creighton Pavilion,Ichthyoroberts Rapids,7.316666666666666
+302,Creighton Pavilion,Jeredactyl Jump,11.016666666666667
+303,Creighton Pavilion,Jurassic Road,9.65
+304,Creighton Pavilion,Kauf's Lost Canyon Escape,8.233333333333333
+305,Creighton Pavilion,Keimosaurus Big Spin,6.6
+306,Creighton Pavilion,Kristanodon Kaper,10.2
+307,Creighton Pavilion,Liggement Fix-Me-Up,8.966666666666667
+308,Creighton Pavilion,Maiasaurus Madness,6.933333333333334
+309,Creighton Pavilion,Mary Anning Beer Garden/Grinosaurus Stage,8.2
+310,Creighton Pavilion,North Entrance,6.166666666666667
+311,Creighton Pavilion,North Line,18.883333333333333
+312,Creighton Pavilion,Paleocarrie Carousel,7.516666666666667
+313,Creighton Pavilion,Raptor Race,8.133333333333333
+314,Creighton Pavilion,Rhynasaurus Rampage,5.733333333333333
+315,Creighton Pavilion,SabreTooth Theatre,12.033333333333333
+316,Creighton Pavilion,Sauroma Bumpers,10.483333333333333
+317,Creighton Pavilion,Scholtz Express,7.75
+318,Creighton Pavilion,Squidosaur,9.016666666666667
+319,Creighton Pavilion,Stegocycles,10.883333333333333
+320,Creighton Pavilion,Stone Cups,11.416666666666666
+321,Creighton Pavilion,TerrorSaur,7.383333333333334
+322,Creighton Pavilion,Wendisaurus Chase,7.033333333333333
+323,Creighton Pavilion,West Entrance,4.366666666666666
+324,Creighton Pavilion,Wild Jungle Cruise,10.866666666666667
+325,Creighton Pavilion,Wrightiraptor Mountain,4.916666666666667
+326,Cyndisaurus Asteroid,Atmosfear,7.116666666666666
+327,Cyndisaurus Asteroid,Auvilotops Express,7.416666666666667
+328,Cyndisaurus Asteroid,Beelzebufo,5.116666666666666
+329,Cyndisaurus Asteroid,Blue Iguanodon,4.283333333333333
+330,Cyndisaurus Asteroid,Central Park Entrance 1,11.966666666666667
+331,Cyndisaurus Asteroid,Central Park Entrance 2,8.916666666666666
+332,Cyndisaurus Asteroid,Central Park Entrance 3,11.25
+333,Cyndisaurus Asteroid,Creighton Pavilion,12.45
+334,Cyndisaurus Asteroid,Dykesadactyl Thrill,6.8
+335,Cyndisaurus Asteroid,East Entrance,2.55
+336,Cyndisaurus Asteroid,Eberlesaurus Roundup,9.25
+337,Cyndisaurus Asteroid,Enchanted Toadstools,4.2
+338,Cyndisaurus Asteroid,Firefall,9.766666666666667
+339,Cyndisaurus Asteroid,Flight of the Swingodon,9.05
+340,Cyndisaurus Asteroid,Flying TyrAndrienkos,4.383333333333334
+341,Cyndisaurus Asteroid,Galactosaurus Rage,10.766666666666667
+342,Cyndisaurus Asteroid,Ichthyoroberts Rapids,9.833333333333334
+343,Cyndisaurus Asteroid,Jeredactyl Jump,6.9
+344,Cyndisaurus Asteroid,Jurassic Road,10.416666666666666
+345,Cyndisaurus Asteroid,Kauf's Lost Canyon Escape,11.15
+346,Cyndisaurus Asteroid,Keimosaurus Big Spin,7.4
+347,Cyndisaurus Asteroid,Kristanodon Kaper,11.1
+348,Cyndisaurus Asteroid,Liggement Fix-Me-Up,13.3
+349,Cyndisaurus Asteroid,Maiasaurus Madness,11.966666666666667
+350,Cyndisaurus Asteroid,Mary Anning Beer Garden/Grinosaurus Stage,14.616666666666667
+351,Cyndisaurus Asteroid,North Entrance,2.75
+352,Cyndisaurus Asteroid,North Line,5.3
+353,Cyndisaurus Asteroid,Paleocarrie Carousel,11.133333333333333
+354,Cyndisaurus Asteroid,Raptor Race,8.016666666666667
+355,Cyndisaurus Asteroid,Rhynasaurus Rampage,8.583333333333334
+356,Cyndisaurus Asteroid,SabreTooth Theatre,7.966666666666667
+357,Cyndisaurus Asteroid,Sauroma Bumpers,6.816666666666666
+358,Cyndisaurus Asteroid,Scholtz Express,12.466666666666667
+359,Cyndisaurus Asteroid,Squidosaur,8.45
+360,Cyndisaurus Asteroid,Stegocycles,4.983333333333333
+361,Cyndisaurus Asteroid,Stone Cups,4.75
+362,Cyndisaurus Asteroid,TerrorSaur,9.116666666666667
+363,Cyndisaurus Asteroid,Wendisaurus Chase,11.333333333333334
+364,Cyndisaurus Asteroid,West Entrance,7.65
+365,Cyndisaurus Asteroid,Wild Jungle Cruise,4.216666666666667
+366,Cyndisaurus Asteroid,Wrightiraptor Mountain,9.983333333333333
+367,Dykesadactyl Thrill,Atmosfear,3.7
+368,Dykesadactyl Thrill,Auvilotops Express,6.133333333333334
+369,Dykesadactyl Thrill,Beelzebufo,8.7
+370,Dykesadactyl Thrill,Blue Iguanodon,8.866666666666667
+371,Dykesadactyl Thrill,Central Park Entrance 1,5.283333333333333
+372,Dykesadactyl Thrill,Central Park Entrance 2,3.85
+373,Dykesadactyl Thrill,Central Park Entrance 3,4.866666666666666
+374,Dykesadactyl Thrill,Creighton Pavilion,6.583333333333333
+375,Dykesadactyl Thrill,Cyndisaurus Asteroid,6.8
+376,Dykesadactyl Thrill,East Entrance,6.683333333333334
+377,Dykesadactyl Thrill,Eberlesaurus Roundup,6.983333333333333
+378,Dykesadactyl Thrill,Enchanted Toadstools,7.266666666666667
+379,Dykesadactyl Thrill,Firefall,7.2
+380,Dykesadactyl Thrill,Flight of the Swingodon,3.25
+381,Dykesadactyl Thrill,Flying TyrAndrienkos,7.4
+382,Dykesadactyl Thrill,Galactosaurus Rage,6.3
+383,Dykesadactyl Thrill,Ichthyoroberts Rapids,3.9
+384,Dykesadactyl Thrill,Jeredactyl Jump,5.966666666666667
+385,Dykesadactyl Thrill,Jurassic Road,8.616666666666667
+386,Dykesadactyl Thrill,Kauf's Lost Canyon Escape,6.966666666666667
+387,Dykesadactyl Thrill,Keimosaurus Big Spin,2.683333333333333
+388,Dykesadactyl Thrill,Kristanodon Kaper,8.566666666666666
+389,Dykesadactyl Thrill,Maiasaurus Madness,5.3
+390,Dykesadactyl Thrill,Mary Anning Beer Garden/Grinosaurus Stage,5.866666666666666
+391,Dykesadactyl Thrill,North Entrance,4.95
+392,Dykesadactyl Thrill,North Line,7.0
+393,Dykesadactyl Thrill,Paleocarrie Carousel,8.0
+394,Dykesadactyl Thrill,Raptor Race,7.7
+395,Dykesadactyl Thrill,Rhynasaurus Rampage,6.2
+396,Dykesadactyl Thrill,SabreTooth Theatre,3.75
+397,Dykesadactyl Thrill,Sauroma Bumpers,6.733333333333333
+398,Dykesadactyl Thrill,Scholtz Express,7.883333333333334
+399,Dykesadactyl Thrill,Squidosaur,5.3
+400,Dykesadactyl Thrill,Stegocycles,7.5
+401,Dykesadactyl Thrill,Stone Cups,6.95
+402,Dykesadactyl Thrill,TerrorSaur,2.9
+403,Dykesadactyl Thrill,Wendisaurus Chase,6.666666666666667
+404,Dykesadactyl Thrill,West Entrance,7.416666666666667
+405,Dykesadactyl Thrill,Wild Jungle Cruise,7.233333333333333
+406,Dykesadactyl Thrill,Wrightiraptor Mountain,6.3
+407,East Entrance,Atmosfear,5.016666666666667
+408,East Entrance,Auvilotops Express,3.95
+409,East Entrance,Beelzebufo,3.65
+410,East Entrance,Blue Iguanodon,2.4166666666666665
+411,East Entrance,Central Park Entrance 1,5.416666666666667
+412,East Entrance,Central Park Entrance 2,8.683333333333334
+413,East Entrance,Central Park Entrance 3,5.166666666666667
+414,East Entrance,Creighton Pavilion,5.783333333333333
+415,East Entrance,Cyndisaurus Asteroid,2.55
+416,East Entrance,Dykesadactyl Thrill,6.683333333333334
+417,East Entrance,Eberlesaurus Roundup,6.266666666666667
+418,East Entrance,Enchanted Toadstools,2.6
+419,East Entrance,Firefall,5.3
+420,East Entrance,Flight of the Swingodon,4.95
+421,East Entrance,Flying TyrAndrienkos,3.95
+422,East Entrance,Galactosaurus Rage,6.066666666666666
+423,East Entrance,Ichthyoroberts Rapids,4.966666666666667
+424,East Entrance,Jeredactyl Jump,2.6333333333333333
+425,East Entrance,Jurassic Road,6.25
+426,East Entrance,Kauf's Lost Canyon Escape,5.816666666666666
+427,East Entrance,Keimosaurus Big Spin,4.416666666666667
+428,East Entrance,Kristanodon Kaper,4.216666666666667
+429,East Entrance,Liggement Fix-Me-Up,1000.0
+430,East Entrance,Maiasaurus Madness,4.7
+431,East Entrance,Mary Anning Beer Garden/Grinosaurus Stage,40.65
+432,East Entrance,North Line,1.7166666666666666
+433,East Entrance,Paleocarrie Carousel,7.5
+434,East Entrance,Raptor Race,4.416666666666667
+435,East Entrance,Rhynasaurus Rampage,5.283333333333333
+436,East Entrance,SabreTooth Theatre,3.1333333333333333
+437,East Entrance,Sauroma Bumpers,3.4166666666666665
+438,East Entrance,Scholtz Express,7.55
+439,East Entrance,Squidosaur,5.333333333333333
+440,East Entrance,Stegocycles,2.3
+441,East Entrance,Stone Cups,1.75
+442,East Entrance,TerrorSaur,3.65
+443,East Entrance,Wendisaurus Chase,5.966666666666667
+444,East Entrance,Wild Jungle Cruise,1.6333333333333333
+445,East Entrance,Wrightiraptor Mountain,5.616666666666666
+446,Eberlesaurus Roundup,Atmosfear,4.966666666666667
+447,Eberlesaurus Roundup,Auvilotops Express,4.883333333333334
+448,Eberlesaurus Roundup,Beelzebufo,11.8
+449,Eberlesaurus Roundup,Blue Iguanodon,10.716666666666667
+450,Eberlesaurus Roundup,Central Park Entrance 1,8.166666666666666
+451,Eberlesaurus Roundup,Central Park Entrance 2,6.966666666666667
+452,Eberlesaurus Roundup,Central Park Entrance 3,8.4
+453,Eberlesaurus Roundup,Creighton Pavilion,6.85
+454,Eberlesaurus Roundup,Cyndisaurus Asteroid,9.25
+455,Eberlesaurus Roundup,Dykesadactyl Thrill,6.983333333333333
+456,Eberlesaurus Roundup,East Entrance,6.266666666666667
+457,Eberlesaurus Roundup,Enchanted Toadstools,8.733333333333333
+458,Eberlesaurus Roundup,Firefall,5.016666666666667
+459,Eberlesaurus Roundup,Flight of the Swingodon,7.75
+460,Eberlesaurus Roundup,Flying TyrAndrienkos,10.15
+461,Eberlesaurus Roundup,Galactosaurus Rage,4.133333333333334
+462,Eberlesaurus Roundup,Ichthyoroberts Rapids,8.666666666666666
+463,Eberlesaurus Roundup,Jeredactyl Jump,11.183333333333334
+464,Eberlesaurus Roundup,Jurassic Road,6.85
+465,Eberlesaurus Roundup,Kauf's Lost Canyon Escape,6.15
+466,Eberlesaurus Roundup,Keimosaurus Big Spin,7.816666666666666
+467,Eberlesaurus Roundup,Kristanodon Kaper,5.566666666666666
+468,Eberlesaurus Roundup,Liggement Fix-Me-Up,7.033333333333333
+469,Eberlesaurus Roundup,Maiasaurus Madness,4.533333333333333
+470,Eberlesaurus Roundup,Mary Anning Beer Garden/Grinosaurus Stage,7.9
+471,Eberlesaurus Roundup,North Entrance,6.966666666666667
+472,Eberlesaurus Roundup,North Line,12.766666666666667
+473,Eberlesaurus Roundup,Paleocarrie Carousel,5.6
+474,Eberlesaurus Roundup,Raptor Race,6.133333333333334
+475,Eberlesaurus Roundup,Rhynasaurus Rampage,4.766666666666667
+476,Eberlesaurus Roundup,SabreTooth Theatre,8.35
+477,Eberlesaurus Roundup,Sauroma Bumpers,8.1
+478,Eberlesaurus Roundup,Scholtz Express,5.333333333333333
+479,Eberlesaurus Roundup,Squidosaur,6.416666666666667
+480,Eberlesaurus Roundup,Stegocycles,10.35
+481,Eberlesaurus Roundup,Stone Cups,10.033333333333333
+482,Eberlesaurus Roundup,TerrorSaur,9.7
+483,Eberlesaurus Roundup,Wendisaurus Chase,6.583333333333333
+484,Eberlesaurus Roundup,West Entrance,3.6
+485,Eberlesaurus Roundup,Wild Jungle Cruise,11.383333333333333
+486,Eberlesaurus Roundup,Wrightiraptor Mountain,5.583333333333333
+487,Enchanted Toadstools,Atmosfear,6.766666666666667
+488,Enchanted Toadstools,Auvilotops Express,7.45
+489,Enchanted Toadstools,Beelzebufo,4.5
+490,Enchanted Toadstools,Blue Iguanodon,3.65
+491,Enchanted Toadstools,Central Park Entrance 1,13.683333333333334
+492,Enchanted Toadstools,Central Park Entrance 2,8.833333333333334
+493,Enchanted Toadstools,Central Park Entrance 3,9.65
+494,Enchanted Toadstools,Creighton Pavilion,11.366666666666667
+495,Enchanted Toadstools,Cyndisaurus Asteroid,4.2
+496,Enchanted Toadstools,Dykesadactyl Thrill,7.266666666666667
+497,Enchanted Toadstools,East Entrance,2.6
+498,Enchanted Toadstools,Eberlesaurus Roundup,8.733333333333333
+499,Enchanted Toadstools,Firefall,8.733333333333333
+500,Enchanted Toadstools,Flight of the Swingodon,8.3
+501,Enchanted Toadstools,Flying TyrAndrienkos,4.6
+502,Enchanted Toadstools,Galactosaurus Rage,10.65
+503,Enchanted Toadstools,Ichthyoroberts Rapids,10.116666666666667
+504,Enchanted Toadstools,Jeredactyl Jump,5.4
+505,Enchanted Toadstools,Jurassic Road,10.183333333333334
+506,Enchanted Toadstools,Kauf's Lost Canyon Escape,8.9
+507,Enchanted Toadstools,Keimosaurus Big Spin,7.983333333333333
+508,Enchanted Toadstools,Kristanodon Kaper,11.033333333333333
+509,Enchanted Toadstools,Liggement Fix-Me-Up,12.3
+510,Enchanted Toadstools,Maiasaurus Madness,9.75
+511,Enchanted Toadstools,Mary Anning Beer Garden/Grinosaurus Stage,13.133333333333333
+512,Enchanted Toadstools,North Entrance,4.183333333333334
+513,Enchanted Toadstools,North Line,5.45
+514,Enchanted Toadstools,Paleocarrie Carousel,10.583333333333334
+515,Enchanted Toadstools,Raptor Race,7.666666666666667
+516,Enchanted Toadstools,Rhynasaurus Rampage,12.933333333333334
+517,Enchanted Toadstools,SabreTooth Theatre,8.016666666666667
+518,Enchanted Toadstools,Sauroma Bumpers,5.883333333333334
+519,Enchanted Toadstools,Scholtz Express,14.633333333333333
+520,Enchanted Toadstools,Squidosaur,8.783333333333333
+521,Enchanted Toadstools,Stegocycles,5.683333333333334
+522,Enchanted Toadstools,Stone Cups,5.216666666666667
+523,Enchanted Toadstools,TerrorSaur,6.95
+524,Enchanted Toadstools,Wendisaurus Chase,11.716666666666667
+525,Enchanted Toadstools,West Entrance,10.433333333333334
+526,Enchanted Toadstools,Wild Jungle Cruise,4.5
+527,Enchanted Toadstools,Wrightiraptor Mountain,9.5
+528,Firefall,Atmosfear,3.1
+529,Firefall,Auvilotops Express,5.416666666666667
+530,Firefall,Beelzebufo,12.0
+531,Firefall,Blue Iguanodon,10.716666666666667
+532,Firefall,Central Park Entrance 1,7.066666666666666
+533,Firefall,Central Park Entrance 2,7.5
+534,Firefall,Central Park Entrance 3,6.25
+535,Firefall,Creighton Pavilion,5.166666666666667
+536,Firefall,Cyndisaurus Asteroid,9.766666666666667
+537,Firefall,Dykesadactyl Thrill,7.2
+538,Firefall,East Entrance,5.3
+539,Firefall,Eberlesaurus Roundup,5.016666666666667
+540,Firefall,Enchanted Toadstools,8.733333333333333
+541,Firefall,Flight of the Swingodon,6.666666666666667
+542,Firefall,Flying TyrAndrienkos,13.533333333333333
+543,Firefall,Galactosaurus Rage,3.533333333333333
+544,Firefall,Ichthyoroberts Rapids,8.3
+545,Firefall,Jeredactyl Jump,11.983333333333333
+546,Firefall,Jurassic Road,7.233333333333333
+547,Firefall,Kauf's Lost Canyon Escape,7.033333333333333
+548,Firefall,Keimosaurus Big Spin,7.466666666666667
+549,Firefall,Kristanodon Kaper,7.183333333333334
+550,Firefall,Liggement Fix-Me-Up,9.816666666666666
+551,Firefall,Maiasaurus Madness,5.233333333333333
+552,Firefall,Mary Anning Beer Garden/Grinosaurus Stage,5.766666666666667
+553,Firefall,North Entrance,4.7
+554,Firefall,North Line,12.533333333333333
+555,Firefall,Paleocarrie Carousel,5.166666666666667
+556,Firefall,Raptor Race,6.35
+557,Firefall,Rhynasaurus Rampage,4.333333333333333
+558,Firefall,SabreTooth Theatre,8.1
+559,Firefall,Sauroma Bumpers,13.333333333333334
+560,Firefall,Scholtz Express,4.533333333333333
+561,Firefall,Squidosaur,7.65
+562,Firefall,Stegocycles,10.6
+563,Firefall,Stone Cups,10.0
+564,Firefall,TerrorSaur,7.066666666666666
+565,Firefall,Wendisaurus Chase,4.866666666666666
+566,Firefall,West Entrance,3.533333333333333
+567,Firefall,Wild Jungle Cruise,11.85
+568,Firefall,Wrightiraptor Mountain,4.833333333333333
+569,Flight of the Swingodon,Atmosfear,2.8
+570,Flight of the Swingodon,Auvilotops Express,6.266666666666667
+571,Flight of the Swingodon,Beelzebufo,8.216666666666667
+572,Flight of the Swingodon,Blue Iguanodon,8.966666666666667
+573,Flight of the Swingodon,Central Park Entrance 1,8.683333333333334
+574,Flight of the Swingodon,Central Park Entrance 2,6.066666666666666
+575,Flight of the Swingodon,Central Park Entrance 3,6.983333333333333
+576,Flight of the Swingodon,Creighton Pavilion,7.25
+577,Flight of the Swingodon,Cyndisaurus Asteroid,9.05
+578,Flight of the Swingodon,Dykesadactyl Thrill,3.25
+579,Flight of the Swingodon,East Entrance,4.95
+580,Flight of the Swingodon,Eberlesaurus Roundup,7.75
+581,Flight of the Swingodon,Enchanted Toadstools,8.3
+582,Flight of the Swingodon,Firefall,6.666666666666667
+583,Flight of the Swingodon,Flying TyrAndrienkos,9.8
+584,Flight of the Swingodon,Galactosaurus Rage,5.033333333333333
+585,Flight of the Swingodon,Ichthyoroberts Rapids,6.583333333333333
+586,Flight of the Swingodon,Jeredactyl Jump,11.0
+587,Flight of the Swingodon,Jurassic Road,9.25
+588,Flight of the Swingodon,Kauf's Lost Canyon Escape,7.4
+589,Flight of the Swingodon,Keimosaurus Big Spin,4.616666666666666
+590,Flight of the Swingodon,Kristanodon Kaper,8.55
+591,Flight of the Swingodon,Liggement Fix-Me-Up,9.883333333333333
+592,Flight of the Swingodon,Maiasaurus Madness,7.366666666666666
+593,Flight of the Swingodon,Mary Anning Beer Garden/Grinosaurus Stage,6.55
+594,Flight of the Swingodon,North Entrance,3.55
+595,Flight of the Swingodon,North Line,13.933333333333334
+596,Flight of the Swingodon,Paleocarrie Carousel,8.183333333333334
+597,Flight of the Swingodon,Raptor Race,6.433333333333334
+598,Flight of the Swingodon,Rhynasaurus Rampage,8.5
+599,Flight of the Swingodon,SabreTooth Theatre,8.916666666666666
+600,Flight of the Swingodon,Sauroma Bumpers,10.333333333333334
+601,Flight of the Swingodon,Scholtz Express,12.183333333333334
+602,Flight of the Swingodon,Squidosaur,7.166666666666667
+603,Flight of the Swingodon,Stegocycles,7.0
+604,Flight of the Swingodon,Stone Cups,8.95
+605,Flight of the Swingodon,TerrorSaur,2.95
+606,Flight of the Swingodon,Wendisaurus Chase,7.183333333333334
+607,Flight of the Swingodon,West Entrance,4.116666666666666
+608,Flight of the Swingodon,Wild Jungle Cruise,8.6
+609,Flight of the Swingodon,Wrightiraptor Mountain,4.666666666666667
+610,Flying TyrAndrienkos,Atmosfear,7.65
+611,Flying TyrAndrienkos,Auvilotops Express,6.333333333333333
+612,Flying TyrAndrienkos,Beelzebufo,5.566666666666666
+613,Flying TyrAndrienkos,Blue Iguanodon,4.483333333333333
+614,Flying TyrAndrienkos,Central Park Entrance 1,12.066666666666666
+615,Flying TyrAndrienkos,Central Park Entrance 2,12.466666666666667
+616,Flying TyrAndrienkos,Central Park Entrance 3,11.283333333333333
+617,Flying TyrAndrienkos,Creighton Pavilion,12.783333333333333
+618,Flying TyrAndrienkos,Cyndisaurus Asteroid,4.383333333333334
+619,Flying TyrAndrienkos,Dykesadactyl Thrill,7.4
+620,Flying TyrAndrienkos,East Entrance,3.95
+621,Flying TyrAndrienkos,Eberlesaurus Roundup,10.15
+622,Flying TyrAndrienkos,Enchanted Toadstools,4.6
+623,Flying TyrAndrienkos,Firefall,13.533333333333333
+624,Flying TyrAndrienkos,Flight of the Swingodon,9.8
+625,Flying TyrAndrienkos,Galactosaurus Rage,9.583333333333334
+626,Flying TyrAndrienkos,Ichthyoroberts Rapids,11.883333333333333
+627,Flying TyrAndrienkos,Jeredactyl Jump,7.5
+628,Flying TyrAndrienkos,Jurassic Road,14.783333333333333
+629,Flying TyrAndrienkos,Kauf's Lost Canyon Escape,13.266666666666667
+630,Flying TyrAndrienkos,Keimosaurus Big Spin,6.616666666666666
+631,Flying TyrAndrienkos,Kristanodon Kaper,13.65
+632,Flying TyrAndrienkos,Liggement Fix-Me-Up,20.816666666666666
+633,Flying TyrAndrienkos,Maiasaurus Madness,10.716666666666667
+634,Flying TyrAndrienkos,Mary Anning Beer Garden/Grinosaurus Stage,15.633333333333333
+635,Flying TyrAndrienkos,North Entrance,2.25
+636,Flying TyrAndrienkos,North Line,8.0
+637,Flying TyrAndrienkos,Paleocarrie Carousel,10.183333333333334
+638,Flying TyrAndrienkos,Raptor Race,7.633333333333334
+639,Flying TyrAndrienkos,Rhynasaurus Rampage,11.133333333333333
+640,Flying TyrAndrienkos,SabreTooth Theatre,8.4
+641,Flying TyrAndrienkos,Sauroma Bumpers,6.4
+642,Flying TyrAndrienkos,Scholtz Express,14.666666666666666
+643,Flying TyrAndrienkos,Squidosaur,8.633333333333333
+644,Flying TyrAndrienkos,Stegocycles,5.066666666666666
+645,Flying TyrAndrienkos,Stone Cups,5.883333333333334
+646,Flying TyrAndrienkos,TerrorSaur,7.9
+647,Flying TyrAndrienkos,Wendisaurus Chase,12.183333333333334
+648,Flying TyrAndrienkos,West Entrance,8.25
+649,Flying TyrAndrienkos,Wild Jungle Cruise,6.316666666666666
+650,Flying TyrAndrienkos,Wrightiraptor Mountain,10.533333333333333
+651,Galactosaurus Rage,Atmosfear,2.2666666666666666
+652,Galactosaurus Rage,Auvilotops Express,7.3
+653,Galactosaurus Rage,Beelzebufo,9.983333333333333
+654,Galactosaurus Rage,Blue Iguanodon,10.2
+655,Galactosaurus Rage,Central Park Entrance 1,3.9833333333333334
+656,Galactosaurus Rage,Central Park Entrance 2,5.4
+657,Galactosaurus Rage,Central Park Entrance 3,5.45
+658,Galactosaurus Rage,Creighton Pavilion,4.45
+659,Galactosaurus Rage,Cyndisaurus Asteroid,10.766666666666667
+660,Galactosaurus Rage,Dykesadactyl Thrill,6.3
+661,Galactosaurus Rage,East Entrance,6.066666666666666
+662,Galactosaurus Rage,Eberlesaurus Roundup,4.133333333333334
+663,Galactosaurus Rage,Enchanted Toadstools,10.65
+664,Galactosaurus Rage,Firefall,3.533333333333333
+665,Galactosaurus Rage,Flight of the Swingodon,5.033333333333333
+666,Galactosaurus Rage,Flying TyrAndrienkos,9.583333333333334
+667,Galactosaurus Rage,Ichthyoroberts Rapids,5.15
+668,Galactosaurus Rage,Jeredactyl Jump,9.75
+669,Galactosaurus Rage,Jurassic Road,6.3
+670,Galactosaurus Rage,Kauf's Lost Canyon Escape,6.65
+671,Galactosaurus Rage,Keimosaurus Big Spin,5.35
+672,Galactosaurus Rage,Kristanodon Kaper,6.5
+673,Galactosaurus Rage,Liggement Fix-Me-Up,7.55
+674,Galactosaurus Rage,Maiasaurus Madness,4.3
+675,Galactosaurus Rage,Mary Anning Beer Garden/Grinosaurus Stage,4.85
+676,Galactosaurus Rage,North Entrance,6.75
+677,Galactosaurus Rage,North Line,12.85
+678,Galactosaurus Rage,Paleocarrie Carousel,6.066666666666666
+679,Galactosaurus Rage,Raptor Race,5.566666666666666
+680,Galactosaurus Rage,Rhynasaurus Rampage,4.183333333333334
+681,Galactosaurus Rage,SabreTooth Theatre,6.716666666666667
+682,Galactosaurus Rage,Sauroma Bumpers,8.95
+683,Galactosaurus Rage,Scholtz Express,5.25
+684,Galactosaurus Rage,Squidosaur,6.083333333333333
+685,Galactosaurus Rage,Stegocycles,9.466666666666667
+686,Galactosaurus Rage,Stone Cups,11.016666666666667
+687,Galactosaurus Rage,TerrorSaur,5.25
+688,Galactosaurus Rage,Wendisaurus Chase,5.533333333333333
+689,Galactosaurus Rage,West Entrance,4.816666666666666
+690,Galactosaurus Rage,Wild Jungle Cruise,11.333333333333334
+691,Galactosaurus Rage,Wrightiraptor Mountain,3.183333333333333
+692,Ichthyoroberts Rapids,Atmosfear,3.8
+693,Ichthyoroberts Rapids,Auvilotops Express,8.166666666666666
+694,Ichthyoroberts Rapids,Beelzebufo,8.833333333333334
+695,Ichthyoroberts Rapids,Blue Iguanodon,8.016666666666667
+696,Ichthyoroberts Rapids,Central Park Entrance 1,7.366666666666666
+697,Ichthyoroberts Rapids,Central Park Entrance 2,6.65
+698,Ichthyoroberts Rapids,Central Park Entrance 3,7.933333333333334
+699,Ichthyoroberts Rapids,Creighton Pavilion,7.316666666666666
+700,Ichthyoroberts Rapids,Cyndisaurus Asteroid,9.833333333333334
+701,Ichthyoroberts Rapids,Dykesadactyl Thrill,3.9
+702,Ichthyoroberts Rapids,East Entrance,4.966666666666667
+703,Ichthyoroberts Rapids,Eberlesaurus Roundup,8.666666666666666
+704,Ichthyoroberts Rapids,Enchanted Toadstools,10.116666666666667
+705,Ichthyoroberts Rapids,Firefall,8.3
+706,Ichthyoroberts Rapids,Flight of the Swingodon,6.583333333333333
+707,Ichthyoroberts Rapids,Flying TyrAndrienkos,11.883333333333333
+708,Ichthyoroberts Rapids,Galactosaurus Rage,5.15
+709,Ichthyoroberts Rapids,Jeredactyl Jump,9.916666666666666
+710,Ichthyoroberts Rapids,Jurassic Road,8.733333333333333
+711,Ichthyoroberts Rapids,Kauf's Lost Canyon Escape,9.516666666666667
+712,Ichthyoroberts Rapids,Keimosaurus Big Spin,4.716666666666667
+713,Ichthyoroberts Rapids,Kristanodon Kaper,8.25
+714,Ichthyoroberts Rapids,Liggement Fix-Me-Up,8.683333333333334
+715,Ichthyoroberts Rapids,Maiasaurus Madness,9.416666666666666
+716,Ichthyoroberts Rapids,Mary Anning Beer Garden/Grinosaurus Stage,4.4
+717,Ichthyoroberts Rapids,North Entrance,7.516666666666667
+718,Ichthyoroberts Rapids,North Line,10.6
+719,Ichthyoroberts Rapids,Paleocarrie Carousel,9.516666666666667
+720,Ichthyoroberts Rapids,Raptor Race,8.566666666666666
+721,Ichthyoroberts Rapids,Rhynasaurus Rampage,11.066666666666666
+722,Ichthyoroberts Rapids,SabreTooth Theatre,6.883333333333334
+723,Ichthyoroberts Rapids,Sauroma Bumpers,10.05
+724,Ichthyoroberts Rapids,Scholtz Express,9.666666666666666
+725,Ichthyoroberts Rapids,Squidosaur,9.366666666666667
+726,Ichthyoroberts Rapids,Stegocycles,11.1
+727,Ichthyoroberts Rapids,Stone Cups,8.916666666666666
+728,Ichthyoroberts Rapids,TerrorSaur,4.25
+729,Ichthyoroberts Rapids,Wendisaurus Chase,8.1
+730,Ichthyoroberts Rapids,West Entrance,4.783333333333333
+731,Ichthyoroberts Rapids,Wild Jungle Cruise,10.483333333333333
+732,Ichthyoroberts Rapids,Wrightiraptor Mountain,6.7
+733,Jeredactyl Jump,Atmosfear,6.483333333333333
+734,Jeredactyl Jump,Auvilotops Express,7.25
+735,Jeredactyl Jump,Beelzebufo,5.95
+736,Jeredactyl Jump,Blue Iguanodon,4.75
+737,Jeredactyl Jump,Central Park Entrance 1,14.466666666666667
+738,Jeredactyl Jump,Central Park Entrance 2,10.983333333333333
+739,Jeredactyl Jump,Central Park Entrance 3,10.416666666666666
+740,Jeredactyl Jump,Creighton Pavilion,11.016666666666667
+741,Jeredactyl Jump,Cyndisaurus Asteroid,6.9
+742,Jeredactyl Jump,Dykesadactyl Thrill,5.966666666666667
+743,Jeredactyl Jump,East Entrance,2.6333333333333333
+744,Jeredactyl Jump,Eberlesaurus Roundup,11.183333333333334
+745,Jeredactyl Jump,Enchanted Toadstools,5.4
+746,Jeredactyl Jump,Firefall,11.983333333333333
+747,Jeredactyl Jump,Flight of the Swingodon,11.0
+748,Jeredactyl Jump,Flying TyrAndrienkos,7.5
+749,Jeredactyl Jump,Galactosaurus Rage,9.75
+750,Jeredactyl Jump,Ichthyoroberts Rapids,9.916666666666666
+751,Jeredactyl Jump,Jurassic Road,11.533333333333333
+752,Jeredactyl Jump,Kauf's Lost Canyon Escape,11.183333333333334
+753,Jeredactyl Jump,Keimosaurus Big Spin,7.8
+754,Jeredactyl Jump,Kristanodon Kaper,12.016666666666667
+755,Jeredactyl Jump,Liggement Fix-Me-Up,24.65
+756,Jeredactyl Jump,Maiasaurus Madness,8.816666666666666
+757,Jeredactyl Jump,Mary Anning Beer Garden/Grinosaurus Stage,18.133333333333333
+758,Jeredactyl Jump,North Entrance,4.5
+759,Jeredactyl Jump,North Line,8.05
+760,Jeredactyl Jump,Paleocarrie Carousel,14.8
+761,Jeredactyl Jump,Raptor Race,8.366666666666667
+762,Jeredactyl Jump,Rhynasaurus Rampage,13.533333333333333
+763,Jeredactyl Jump,SabreTooth Theatre,9.0
+764,Jeredactyl Jump,Sauroma Bumpers,6.8
+765,Jeredactyl Jump,Scholtz Express,14.85
+766,Jeredactyl Jump,Squidosaur,11.283333333333333
+767,Jeredactyl Jump,Stegocycles,3.95
+768,Jeredactyl Jump,Stone Cups,4.5
+769,Jeredactyl Jump,TerrorSaur,6.766666666666667
+770,Jeredactyl Jump,Wendisaurus Chase,11.9
+771,Jeredactyl Jump,West Entrance,7.816666666666666
+772,Jeredactyl Jump,Wild Jungle Cruise,5.316666666666666
+773,Jeredactyl Jump,Wrightiraptor Mountain,9.5
+774,Jurassic Road,Atmosfear,4.916666666666667
+775,Jurassic Road,Auvilotops Express,7.4
+776,Jurassic Road,Beelzebufo,12.183333333333334
+777,Jurassic Road,Blue Iguanodon,11.916666666666666
+778,Jurassic Road,Central Park Entrance 1,11.016666666666667
+779,Jurassic Road,Central Park Entrance 2,9.733333333333333
+780,Jurassic Road,Central Park Entrance 3,8.966666666666667
+781,Jurassic Road,Creighton Pavilion,9.65
+782,Jurassic Road,Cyndisaurus Asteroid,10.416666666666666
+783,Jurassic Road,Dykesadactyl Thrill,8.616666666666667
+784,Jurassic Road,East Entrance,6.25
+785,Jurassic Road,Eberlesaurus Roundup,6.85
+786,Jurassic Road,Enchanted Toadstools,10.183333333333334
+787,Jurassic Road,Firefall,7.233333333333333
+788,Jurassic Road,Flight of the Swingodon,9.25
+789,Jurassic Road,Flying TyrAndrienkos,14.783333333333333
+790,Jurassic Road,Galactosaurus Rage,6.3
+791,Jurassic Road,Ichthyoroberts Rapids,8.733333333333333
+792,Jurassic Road,Jeredactyl Jump,11.533333333333333
+793,Jurassic Road,Kauf's Lost Canyon Escape,7.633333333333334
+794,Jurassic Road,Keimosaurus Big Spin,9.116666666666667
+795,Jurassic Road,Kristanodon Kaper,6.983333333333333
+796,Jurassic Road,Maiasaurus Madness,6.666666666666667
+797,Jurassic Road,Mary Anning Beer Garden/Grinosaurus Stage,7.033333333333333
+798,Jurassic Road,North Entrance,5.983333333333333
+799,Jurassic Road,North Line,18.333333333333332
+800,Jurassic Road,Paleocarrie Carousel,7.116666666666666
+801,Jurassic Road,Raptor Race,7.45
+802,Jurassic Road,Rhynasaurus Rampage,6.883333333333334
+803,Jurassic Road,SabreTooth Theatre,12.716666666666667
+804,Jurassic Road,Sauroma Bumpers,11.166666666666666
+805,Jurassic Road,Scholtz Express,9.083333333333334
+806,Jurassic Road,Squidosaur,7.883333333333334
+807,Jurassic Road,Stegocycles,11.3
+808,Jurassic Road,Stone Cups,10.316666666666666
+809,Jurassic Road,TerrorSaur,8.45
+810,Jurassic Road,Wendisaurus Chase,2.8833333333333333
+811,Jurassic Road,West Entrance,1.6666666666666667
+812,Jurassic Road,Wild Jungle Cruise,11.0
+813,Jurassic Road,Wrightiraptor Mountain,9.083333333333334
+814,Kauf's Lost Canyon Escape,Atmosfear,3.6333333333333333
+815,Kauf's Lost Canyon Escape,Auvilotops Express,5.466666666666667
+816,Kauf's Lost Canyon Escape,Beelzebufo,12.45
+817,Kauf's Lost Canyon Escape,Blue Iguanodon,9.85
+818,Kauf's Lost Canyon Escape,Central Park Entrance 1,10.85
+819,Kauf's Lost Canyon Escape,Central Park Entrance 2,8.0
+820,Kauf's Lost Canyon Escape,Central Park Entrance 3,8.7
+821,Kauf's Lost Canyon Escape,Creighton Pavilion,8.233333333333333
+822,Kauf's Lost Canyon Escape,Cyndisaurus Asteroid,11.15
+823,Kauf's Lost Canyon Escape,Dykesadactyl Thrill,6.966666666666667
+824,Kauf's Lost Canyon Escape,East Entrance,5.816666666666666
+825,Kauf's Lost Canyon Escape,Eberlesaurus Roundup,6.15
+826,Kauf's Lost Canyon Escape,Enchanted Toadstools,8.9
+827,Kauf's Lost Canyon Escape,Firefall,7.033333333333333
+828,Kauf's Lost Canyon Escape,Flight of the Swingodon,7.4
+829,Kauf's Lost Canyon Escape,Flying TyrAndrienkos,13.266666666666667
+830,Kauf's Lost Canyon Escape,Galactosaurus Rage,6.65
+831,Kauf's Lost Canyon Escape,Ichthyoroberts Rapids,9.516666666666667
+832,Kauf's Lost Canyon Escape,Jeredactyl Jump,11.183333333333334
+833,Kauf's Lost Canyon Escape,Jurassic Road,7.633333333333334
+834,Kauf's Lost Canyon Escape,Keimosaurus Big Spin,6.4
+835,Kauf's Lost Canyon Escape,Kristanodon Kaper,7.466666666666667
+836,Kauf's Lost Canyon Escape,Liggement Fix-Me-Up,8.833333333333334
+837,Kauf's Lost Canyon Escape,Maiasaurus Madness,5.916666666666667
+838,Kauf's Lost Canyon Escape,Mary Anning Beer Garden/Grinosaurus Stage,9.216666666666667
+839,Kauf's Lost Canyon Escape,North Entrance,4.916666666666667
+840,Kauf's Lost Canyon Escape,North Line,15.766666666666667
+841,Kauf's Lost Canyon Escape,Paleocarrie Carousel,8.333333333333334
+842,Kauf's Lost Canyon Escape,Raptor Race,6.55
+843,Kauf's Lost Canyon Escape,Rhynasaurus Rampage,5.766666666666667
+844,Kauf's Lost Canyon Escape,SabreTooth Theatre,11.5
+845,Kauf's Lost Canyon Escape,Sauroma Bumpers,12.25
+846,Kauf's Lost Canyon Escape,Scholtz Express,8.816666666666666
+847,Kauf's Lost Canyon Escape,Squidosaur,8.0
+848,Kauf's Lost Canyon Escape,Stegocycles,10.066666666666666
+849,Kauf's Lost Canyon Escape,Stone Cups,10.383333333333333
+850,Kauf's Lost Canyon Escape,TerrorSaur,6.4
+851,Kauf's Lost Canyon Escape,Wendisaurus Chase,5.733333333333333
+852,Kauf's Lost Canyon Escape,West Entrance,2.85
+853,Kauf's Lost Canyon Escape,Wild Jungle Cruise,12.733333333333333
+854,Kauf's Lost Canyon Escape,Wrightiraptor Mountain,5.816666666666666
+855,Keimosaurus Big Spin,Atmosfear,3.5
+856,Keimosaurus Big Spin,Auvilotops Express,6.733333333333333
+857,Keimosaurus Big Spin,Beelzebufo,8.6
+858,Keimosaurus Big Spin,Blue Iguanodon,7.133333333333334
+859,Keimosaurus Big Spin,Central Park Entrance 1,7.116666666666666
+860,Keimosaurus Big Spin,Central Park Entrance 2,6.466666666666667
+861,Keimosaurus Big Spin,Central Park Entrance 3,5.333333333333333
+862,Keimosaurus Big Spin,Creighton Pavilion,6.6
+863,Keimosaurus Big Spin,Cyndisaurus Asteroid,7.4
+864,Keimosaurus Big Spin,Dykesadactyl Thrill,2.683333333333333
+865,Keimosaurus Big Spin,East Entrance,4.416666666666667
+866,Keimosaurus Big Spin,Eberlesaurus Roundup,7.816666666666666
+867,Keimosaurus Big Spin,Enchanted Toadstools,7.983333333333333
+868,Keimosaurus Big Spin,Firefall,7.466666666666667
+869,Keimosaurus Big Spin,Flight of the Swingodon,4.616666666666666
+870,Keimosaurus Big Spin,Flying TyrAndrienkos,6.616666666666666
+871,Keimosaurus Big Spin,Galactosaurus Rage,5.35
+872,Keimosaurus Big Spin,Ichthyoroberts Rapids,4.716666666666667
+873,Keimosaurus Big Spin,Jeredactyl Jump,7.8
+874,Keimosaurus Big Spin,Jurassic Road,9.116666666666667
+875,Keimosaurus Big Spin,Kauf's Lost Canyon Escape,6.4
+876,Keimosaurus Big Spin,Kristanodon Kaper,8.833333333333334
+877,Keimosaurus Big Spin,Liggement Fix-Me-Up,5.583333333333333
+878,Keimosaurus Big Spin,Maiasaurus Madness,7.733333333333333
+879,Keimosaurus Big Spin,Mary Anning Beer Garden/Grinosaurus Stage,3.1
+880,Keimosaurus Big Spin,North Entrance,6.0
+881,Keimosaurus Big Spin,North Line,8.95
+882,Keimosaurus Big Spin,Paleocarrie Carousel,7.633333333333334
+883,Keimosaurus Big Spin,Raptor Race,7.383333333333334
+884,Keimosaurus Big Spin,Rhynasaurus Rampage,7.716666666666667
+885,Keimosaurus Big Spin,SabreTooth Theatre,5.666666666666667
+886,Keimosaurus Big Spin,Sauroma Bumpers,7.583333333333333
+887,Keimosaurus Big Spin,Scholtz Express,10.05
+888,Keimosaurus Big Spin,Squidosaur,8.266666666666667
+889,Keimosaurus Big Spin,Stegocycles,7.683333333333334
+890,Keimosaurus Big Spin,Stone Cups,8.45
+891,Keimosaurus Big Spin,TerrorSaur,3.533333333333333
+892,Keimosaurus Big Spin,Wendisaurus Chase,7.583333333333333
+893,Keimosaurus Big Spin,West Entrance,4.816666666666666
+894,Keimosaurus Big Spin,Wild Jungle Cruise,6.483333333333333
+895,Keimosaurus Big Spin,Wrightiraptor Mountain,5.333333333333333
+896,Kristanodon Kaper,Atmosfear,4.5
+897,Kristanodon Kaper,Auvilotops Express,4.9
+898,Kristanodon Kaper,Beelzebufo,9.65
+899,Kristanodon Kaper,Blue Iguanodon,8.266666666666667
+900,Kristanodon Kaper,Central Park Entrance 1,11.133333333333333
+901,Kristanodon Kaper,Central Park Entrance 2,7.733333333333333
+902,Kristanodon Kaper,Central Park Entrance 3,8.616666666666667
+903,Kristanodon Kaper,Creighton Pavilion,10.2
+904,Kristanodon Kaper,Cyndisaurus Asteroid,11.1
+905,Kristanodon Kaper,Dykesadactyl Thrill,8.566666666666666
+906,Kristanodon Kaper,East Entrance,4.216666666666667
+907,Kristanodon Kaper,Eberlesaurus Roundup,5.566666666666666
+908,Kristanodon Kaper,Enchanted Toadstools,11.033333333333333
+909,Kristanodon Kaper,Firefall,7.183333333333334
+910,Kristanodon Kaper,Flight of the Swingodon,8.55
+911,Kristanodon Kaper,Flying TyrAndrienkos,13.65
+912,Kristanodon Kaper,Galactosaurus Rage,6.5
+913,Kristanodon Kaper,Ichthyoroberts Rapids,8.25
+914,Kristanodon Kaper,Jeredactyl Jump,12.016666666666667
+915,Kristanodon Kaper,Jurassic Road,6.983333333333333
+916,Kristanodon Kaper,Kauf's Lost Canyon Escape,7.466666666666667
+917,Kristanodon Kaper,Keimosaurus Big Spin,8.833333333333334
+918,Kristanodon Kaper,Liggement Fix-Me-Up,12.883333333333333
+919,Kristanodon Kaper,Maiasaurus Madness,6.55
+920,Kristanodon Kaper,Mary Anning Beer Garden/Grinosaurus Stage,7.416666666666667
+921,Kristanodon Kaper,North Entrance,4.083333333333333
+922,Kristanodon Kaper,North Line,11.2
+923,Kristanodon Kaper,Paleocarrie Carousel,5.7
+924,Kristanodon Kaper,Raptor Race,5.35
+925,Kristanodon Kaper,Rhynasaurus Rampage,6.816666666666666
+926,Kristanodon Kaper,SabreTooth Theatre,11.0
+927,Kristanodon Kaper,Sauroma Bumpers,9.633333333333333
+928,Kristanodon Kaper,Scholtz Express,10.383333333333333
+929,Kristanodon Kaper,Squidosaur,7.333333333333333
+930,Kristanodon Kaper,Stegocycles,10.6
+931,Kristanodon Kaper,Stone Cups,10.216666666666667
+932,Kristanodon Kaper,TerrorSaur,8.0
+933,Kristanodon Kaper,Wendisaurus Chase,3.2666666666666666
+934,Kristanodon Kaper,West Entrance,2.816666666666667
+935,Kristanodon Kaper,Wild Jungle Cruise,10.6
+936,Kristanodon Kaper,Wrightiraptor Mountain,6.233333333333333
+937,Liggement Fix-Me-Up,Atmosfear,6.566666666666666
+938,Liggement Fix-Me-Up,Auvilotops Express,6.833333333333333
+939,Liggement Fix-Me-Up,Blue Iguanodon,42.516666666666666
+940,Liggement Fix-Me-Up,Central Park Entrance 1,30.633333333333333
+941,Liggement Fix-Me-Up,Central Park Entrance 2,4.233333333333333
+942,Liggement Fix-Me-Up,Central Park Entrance 3,23.116666666666667
+943,Liggement Fix-Me-Up,Creighton Pavilion,8.966666666666667
+944,Liggement Fix-Me-Up,Cyndisaurus Asteroid,13.3
+945,Liggement Fix-Me-Up,Dykesadactyl Thrill,30.3
+946,Liggement Fix-Me-Up,Eberlesaurus Roundup,7.033333333333333
+947,Liggement Fix-Me-Up,Firefall,9.816666666666666
+948,Liggement Fix-Me-Up,Flight of the Swingodon,9.883333333333333
+949,Liggement Fix-Me-Up,Flying TyrAndrienkos,20.816666666666666
+950,Liggement Fix-Me-Up,Galactosaurus Rage,7.55
+951,Liggement Fix-Me-Up,Ichthyoroberts Rapids,8.683333333333334
+952,Liggement Fix-Me-Up,Jeredactyl Jump,24.65
+953,Liggement Fix-Me-Up,Kauf's Lost Canyon Escape,8.833333333333334
+954,Liggement Fix-Me-Up,Keimosaurus Big Spin,5.583333333333333
+955,Liggement Fix-Me-Up,Maiasaurus Madness,7.25
+956,Liggement Fix-Me-Up,Mary Anning Beer Garden/Grinosaurus Stage,5.583333333333333
+957,Liggement Fix-Me-Up,North Entrance,14.55
+958,Liggement Fix-Me-Up,North Line,30.666666666666668
+959,Liggement Fix-Me-Up,Paleocarrie Carousel,10.6
+960,Liggement Fix-Me-Up,SabreTooth Theatre,30.05
+961,Liggement Fix-Me-Up,Sauroma Bumpers,38.53333333333333
+962,Liggement Fix-Me-Up,Scholtz Express,22.2
+963,Liggement Fix-Me-Up,Squidosaur,37.833333333333336
+964,Liggement Fix-Me-Up,Stone Cups,13.7
+965,Liggement Fix-Me-Up,TerrorSaur,22.433333333333334
+966,Liggement Fix-Me-Up,Wendisaurus Chase,10.1
+967,Liggement Fix-Me-Up,Wrightiraptor Mountain,8.433333333333334
+968,Maiasaurus Madness,Atmosfear,3.9
+969,Maiasaurus Madness,Auvilotops Express,6.333333333333333
+970,Maiasaurus Madness,Beelzebufo,11.916666666666666
+971,Maiasaurus Madness,Blue Iguanodon,10.15
+972,Maiasaurus Madness,Central Park Entrance 1,8.166666666666666
+973,Maiasaurus Madness,Central Park Entrance 2,7.883333333333334
+974,Maiasaurus Madness,Central Park Entrance 3,7.233333333333333
+975,Maiasaurus Madness,Creighton Pavilion,6.933333333333334
+976,Maiasaurus Madness,Cyndisaurus Asteroid,11.966666666666667
+977,Maiasaurus Madness,Dykesadactyl Thrill,5.3
+978,Maiasaurus Madness,East Entrance,4.7
+979,Maiasaurus Madness,Eberlesaurus Roundup,4.533333333333333
+980,Maiasaurus Madness,Enchanted Toadstools,9.75
+981,Maiasaurus Madness,Firefall,5.233333333333333
+982,Maiasaurus Madness,Flight of the Swingodon,7.366666666666666
+983,Maiasaurus Madness,Flying TyrAndrienkos,10.716666666666667
+984,Maiasaurus Madness,Galactosaurus Rage,4.3
+985,Maiasaurus Madness,Ichthyoroberts Rapids,9.416666666666666
+986,Maiasaurus Madness,Jeredactyl Jump,8.816666666666666
+987,Maiasaurus Madness,Jurassic Road,6.666666666666667
+988,Maiasaurus Madness,Kauf's Lost Canyon Escape,5.916666666666667
+989,Maiasaurus Madness,Keimosaurus Big Spin,7.733333333333333
+990,Maiasaurus Madness,Kristanodon Kaper,6.55
+991,Maiasaurus Madness,Liggement Fix-Me-Up,7.25
+992,Maiasaurus Madness,Mary Anning Beer Garden/Grinosaurus Stage,18.016666666666666
+993,Maiasaurus Madness,North Entrance,4.933333333333334
+994,Maiasaurus Madness,North Line,12.166666666666666
+995,Maiasaurus Madness,Paleocarrie Carousel,7.9
+996,Maiasaurus Madness,Raptor Race,6.35
+997,Maiasaurus Madness,Rhynasaurus Rampage,5.483333333333333
+998,Maiasaurus Madness,SabreTooth Theatre,10.65
+999,Maiasaurus Madness,Sauroma Bumpers,11.183333333333334
+1000,Maiasaurus Madness,Scholtz Express,7.25
+1001,Maiasaurus Madness,Squidosaur,6.95
+1002,Maiasaurus Madness,Stegocycles,11.0
+1003,Maiasaurus Madness,Stone Cups,9.283333333333333
+1004,Maiasaurus Madness,TerrorSaur,8.333333333333334
+1005,Maiasaurus Madness,Wendisaurus Chase,6.0
+1006,Maiasaurus Madness,West Entrance,4.833333333333333
+1007,Maiasaurus Madness,Wild Jungle Cruise,10.466666666666667
+1008,Maiasaurus Madness,Wrightiraptor Mountain,5.783333333333333
+1009,Mary Anning Beer Garden/Grinosaurus Stage,Atmosfear,3.8
+1010,Mary Anning Beer Garden/Grinosaurus Stage,Auvilotops Express,11.2
+1011,Mary Anning Beer Garden/Grinosaurus Stage,Beelzebufo,10.3
+1012,Mary Anning Beer Garden/Grinosaurus Stage,Blue Iguanodon,12.783333333333333
+1013,Mary Anning Beer Garden/Grinosaurus Stage,Central Park Entrance 1,7.683333333333334
+1014,Mary Anning Beer Garden/Grinosaurus Stage,Central Park Entrance 2,7.783333333333333
+1015,Mary Anning Beer Garden/Grinosaurus Stage,Central Park Entrance 3,6.416666666666667
+1016,Mary Anning Beer Garden/Grinosaurus Stage,Creighton Pavilion,8.2
+1017,Mary Anning Beer Garden/Grinosaurus Stage,Cyndisaurus Asteroid,14.616666666666667
+1018,Mary Anning Beer Garden/Grinosaurus Stage,Dykesadactyl Thrill,5.866666666666666
+1019,Mary Anning Beer Garden/Grinosaurus Stage,East Entrance,40.65
+1020,Mary Anning Beer Garden/Grinosaurus Stage,Eberlesaurus Roundup,7.9
+1021,Mary Anning Beer Garden/Grinosaurus Stage,Enchanted Toadstools,13.133333333333333
+1022,Mary Anning Beer Garden/Grinosaurus Stage,Firefall,5.766666666666667
+1023,Mary Anning Beer Garden/Grinosaurus Stage,Flight of the Swingodon,6.55
+1024,Mary Anning Beer Garden/Grinosaurus Stage,Flying TyrAndrienkos,15.633333333333333
+1025,Mary Anning Beer Garden/Grinosaurus Stage,Galactosaurus Rage,4.85
+1026,Mary Anning Beer Garden/Grinosaurus Stage,Ichthyoroberts Rapids,4.4
+1027,Mary Anning Beer Garden/Grinosaurus Stage,Jeredactyl Jump,18.133333333333333
+1028,Mary Anning Beer Garden/Grinosaurus Stage,Jurassic Road,7.033333333333333
+1029,Mary Anning Beer Garden/Grinosaurus Stage,Kauf's Lost Canyon Escape,9.216666666666667
+1030,Mary Anning Beer Garden/Grinosaurus Stage,Keimosaurus Big Spin,3.1
+1031,Mary Anning Beer Garden/Grinosaurus Stage,Kristanodon Kaper,7.416666666666667
+1032,Mary Anning Beer Garden/Grinosaurus Stage,Liggement Fix-Me-Up,5.583333333333333
+1033,Mary Anning Beer Garden/Grinosaurus Stage,Maiasaurus Madness,18.016666666666666
+1034,Mary Anning Beer Garden/Grinosaurus Stage,North Entrance,13.6
+1035,Mary Anning Beer Garden/Grinosaurus Stage,North Line,10.216666666666667
+1036,Mary Anning Beer Garden/Grinosaurus Stage,Paleocarrie Carousel,7.616666666666666
+1037,Mary Anning Beer Garden/Grinosaurus Stage,Raptor Race,6.833333333333333
+1038,Mary Anning Beer Garden/Grinosaurus Stage,Rhynasaurus Rampage,12.15
+1039,Mary Anning Beer Garden/Grinosaurus Stage,SabreTooth Theatre,5.383333333333334
+1040,Mary Anning Beer Garden/Grinosaurus Stage,Sauroma Bumpers,25.0
+1041,Mary Anning Beer Garden/Grinosaurus Stage,Scholtz Express,12.45
+1042,Mary Anning Beer Garden/Grinosaurus Stage,Squidosaur,13.133333333333333
+1043,Mary Anning Beer Garden/Grinosaurus Stage,Stegocycles,9.633333333333333
+1044,Mary Anning Beer Garden/Grinosaurus Stage,Stone Cups,21.283333333333335
+1045,Mary Anning Beer Garden/Grinosaurus Stage,TerrorSaur,4.4
+1046,Mary Anning Beer Garden/Grinosaurus Stage,Wendisaurus Chase,9.283333333333333
+1047,Mary Anning Beer Garden/Grinosaurus Stage,West Entrance,51.766666666666666
+1048,Mary Anning Beer Garden/Grinosaurus Stage,Wild Jungle Cruise,13.133333333333333
+1049,Mary Anning Beer Garden/Grinosaurus Stage,Wrightiraptor Mountain,6.383333333333334
+1050,North Entrance,Atmosfear,6.65
+1051,North Entrance,Auvilotops Express,3.7
+1052,North Entrance,Beelzebufo,3.6333333333333333
+1053,North Entrance,Blue Iguanodon,3.066666666666667
+1054,North Entrance,Central Park Entrance 1,8.033333333333333
+1055,North Entrance,Central Park Entrance 2,4.733333333333333
+1056,North Entrance,Central Park Entrance 3,6.466666666666667
+1057,North Entrance,Creighton Pavilion,6.166666666666667
+1058,North Entrance,Cyndisaurus Asteroid,2.75
+1059,North Entrance,Dykesadactyl Thrill,4.95
+1060,North Entrance,Eberlesaurus Roundup,6.966666666666667
+1061,North Entrance,Enchanted Toadstools,4.183333333333334
+1062,North Entrance,Firefall,4.7
+1063,North Entrance,Flight of the Swingodon,3.55
+1064,North Entrance,Flying TyrAndrienkos,2.25
+1065,North Entrance,Galactosaurus Rage,6.75
+1066,North Entrance,Ichthyoroberts Rapids,7.516666666666667
+1067,North Entrance,Jeredactyl Jump,4.5
+1068,North Entrance,Jurassic Road,5.983333333333333
+1069,North Entrance,Kauf's Lost Canyon Escape,4.916666666666667
+1070,North Entrance,Keimosaurus Big Spin,6.0
+1071,North Entrance,Kristanodon Kaper,4.083333333333333
+1072,North Entrance,Liggement Fix-Me-Up,14.55
+1073,North Entrance,Maiasaurus Madness,4.933333333333334
+1074,North Entrance,Mary Anning Beer Garden/Grinosaurus Stage,13.6
+1075,North Entrance,North Line,5.95
+1076,North Entrance,Paleocarrie Carousel,3.1
+1077,North Entrance,Raptor Race,2.466666666666667
+1078,North Entrance,Rhynasaurus Rampage,4.7
+1079,North Entrance,SabreTooth Theatre,4.5
+1080,North Entrance,Sauroma Bumpers,2.933333333333333
+1081,North Entrance,Scholtz Express,6.733333333333333
+1082,North Entrance,Squidosaur,2.3666666666666667
+1083,North Entrance,Stegocycles,3.716666666666667
+1084,North Entrance,Stone Cups,5.8
+1085,North Entrance,TerrorSaur,5.133333333333334
+1086,North Entrance,Wendisaurus Chase,4.2
+1087,North Entrance,Wild Jungle Cruise,5.083333333333333
+1088,North Entrance,Wrightiraptor Mountain,5.283333333333333
+1089,North Line,Atmosfear,7.283333333333333
+1090,North Line,Auvilotops Express,8.85
+1091,North Line,Beelzebufo,6.25
+1092,North Line,Blue Iguanodon,5.05
+1093,North Line,Central Park Entrance 1,17.95
+1094,North Line,Central Park Entrance 2,11.733333333333333
+1095,North Line,Central Park Entrance 3,17.25
+1096,North Line,Creighton Pavilion,18.883333333333333
+1097,North Line,Cyndisaurus Asteroid,5.3
+1098,North Line,Dykesadactyl Thrill,7.0
+1099,North Line,East Entrance,1.7166666666666666
+1100,North Line,Eberlesaurus Roundup,12.766666666666667
+1101,North Line,Enchanted Toadstools,5.45
+1102,North Line,Firefall,12.533333333333333
+1103,North Line,Flight of the Swingodon,13.933333333333334
+1104,North Line,Flying TyrAndrienkos,8.0
+1105,North Line,Galactosaurus Rage,12.85
+1106,North Line,Ichthyoroberts Rapids,10.6
+1107,North Line,Jeredactyl Jump,8.05
+1108,North Line,Jurassic Road,18.333333333333332
+1109,North Line,Kauf's Lost Canyon Escape,15.766666666666667
+1110,North Line,Keimosaurus Big Spin,8.95
+1111,North Line,Kristanodon Kaper,11.2
+1112,North Line,Maiasaurus Madness,12.166666666666666
+1113,North Line,Mary Anning Beer Garden/Grinosaurus Stage,10.216666666666667
+1114,North Line,North Entrance,5.95
+1115,North Line,Paleocarrie Carousel,15.6
+1116,North Line,Raptor Race,10.033333333333333
+1117,North Line,Rhynasaurus Rampage,14.2
+1118,North Line,SabreTooth Theatre,26.216666666666665
+1119,North Line,Sauroma Bumpers,7.683333333333334
+1120,North Line,Scholtz Express,32.55
+1121,North Line,Squidosaur,9.983333333333333
+1122,North Line,Stegocycles,5.65
+1123,North Line,Stone Cups,3.9166666666666665
+1124,North Line,TerrorSaur,11.566666666666666
+1125,North Line,Wendisaurus Chase,11.7
+1126,North Line,West Entrance,10.233333333333333
+1127,North Line,Wild Jungle Cruise,4.7
+1128,North Line,Wrightiraptor Mountain,10.733333333333333
+1129,Paleocarrie Carousel,Atmosfear,5.466666666666667
+1130,Paleocarrie Carousel,Auvilotops Express,5.1
+1131,Paleocarrie Carousel,Beelzebufo,10.75
+1132,Paleocarrie Carousel,Blue Iguanodon,8.95
+1133,Paleocarrie Carousel,Central Park Entrance 1,13.5
+1134,Paleocarrie Carousel,Central Park Entrance 2,10.45
+1135,Paleocarrie Carousel,Central Park Entrance 3,10.816666666666666
+1136,Paleocarrie Carousel,Creighton Pavilion,7.516666666666667
+1137,Paleocarrie Carousel,Cyndisaurus Asteroid,11.133333333333333
+1138,Paleocarrie Carousel,Dykesadactyl Thrill,8.0
+1139,Paleocarrie Carousel,East Entrance,7.5
+1140,Paleocarrie Carousel,Eberlesaurus Roundup,5.6
+1141,Paleocarrie Carousel,Enchanted Toadstools,10.583333333333334
+1142,Paleocarrie Carousel,Firefall,5.166666666666667
+1143,Paleocarrie Carousel,Flight of the Swingodon,8.183333333333334
+1144,Paleocarrie Carousel,Flying TyrAndrienkos,10.183333333333334
+1145,Paleocarrie Carousel,Galactosaurus Rage,6.066666666666666
+1146,Paleocarrie Carousel,Ichthyoroberts Rapids,9.516666666666667
+1147,Paleocarrie Carousel,Jeredactyl Jump,14.8
+1148,Paleocarrie Carousel,Jurassic Road,7.116666666666666
+1149,Paleocarrie Carousel,Kauf's Lost Canyon Escape,8.333333333333334
+1150,Paleocarrie Carousel,Keimosaurus Big Spin,7.633333333333334
+1151,Paleocarrie Carousel,Kristanodon Kaper,5.7
+1152,Paleocarrie Carousel,Liggement Fix-Me-Up,10.6
+1153,Paleocarrie Carousel,Maiasaurus Madness,7.9
+1154,Paleocarrie Carousel,Mary Anning Beer Garden/Grinosaurus Stage,7.616666666666666
+1155,Paleocarrie Carousel,North Entrance,3.1
+1156,Paleocarrie Carousel,North Line,15.6
+1157,Paleocarrie Carousel,Raptor Race,5.4
+1158,Paleocarrie Carousel,Rhynasaurus Rampage,5.816666666666666
+1159,Paleocarrie Carousel,SabreTooth Theatre,13.533333333333333
+1160,Paleocarrie Carousel,Sauroma Bumpers,11.85
+1161,Paleocarrie Carousel,Scholtz Express,10.466666666666667
+1162,Paleocarrie Carousel,Squidosaur,5.633333333333334
+1163,Paleocarrie Carousel,Stegocycles,10.016666666666667
+1164,Paleocarrie Carousel,Stone Cups,9.266666666666667
+1165,Paleocarrie Carousel,TerrorSaur,10.016666666666667
+1166,Paleocarrie Carousel,Wendisaurus Chase,4.516666666666667
+1167,Paleocarrie Carousel,West Entrance,2.35
+1168,Paleocarrie Carousel,Wild Jungle Cruise,11.666666666666666
+1169,Paleocarrie Carousel,Wrightiraptor Mountain,5.883333333333334
+1170,Raptor Race,Atmosfear,5.366666666666666
+1171,Raptor Race,Auvilotops Express,4.266666666666667
+1172,Raptor Race,Beelzebufo,8.3
+1173,Raptor Race,Blue Iguanodon,7.75
+1174,Raptor Race,Central Park Entrance 1,10.716666666666667
+1175,Raptor Race,Central Park Entrance 2,8.15
+1176,Raptor Race,Central Park Entrance 3,7.85
+1177,Raptor Race,Creighton Pavilion,8.133333333333333
+1178,Raptor Race,Cyndisaurus Asteroid,8.016666666666667
+1179,Raptor Race,Dykesadactyl Thrill,7.7
+1180,Raptor Race,East Entrance,4.416666666666667
+1181,Raptor Race,Eberlesaurus Roundup,6.133333333333334
+1182,Raptor Race,Enchanted Toadstools,7.666666666666667
+1183,Raptor Race,Firefall,6.35
+1184,Raptor Race,Flight of the Swingodon,6.433333333333334
+1185,Raptor Race,Flying TyrAndrienkos,7.633333333333334
+1186,Raptor Race,Galactosaurus Rage,5.566666666666666
+1187,Raptor Race,Ichthyoroberts Rapids,8.566666666666666
+1188,Raptor Race,Jeredactyl Jump,8.366666666666667
+1189,Raptor Race,Jurassic Road,7.45
+1190,Raptor Race,Kauf's Lost Canyon Escape,6.55
+1191,Raptor Race,Keimosaurus Big Spin,7.383333333333334
+1192,Raptor Race,Kristanodon Kaper,5.35
+1193,Raptor Race,Liggement Fix-Me-Up,1000.0
+1194,Raptor Race,Maiasaurus Madness,6.35
+1195,Raptor Race,Mary Anning Beer Garden/Grinosaurus Stage,6.833333333333333
+1196,Raptor Race,North Entrance,2.466666666666667
+1197,Raptor Race,North Line,10.033333333333333
+1198,Raptor Race,Paleocarrie Carousel,5.4
+1199,Raptor Race,Rhynasaurus Rampage,5.45
+1200,Raptor Race,SabreTooth Theatre,9.4
+1201,Raptor Race,Sauroma Bumpers,10.15
+1202,Raptor Race,Scholtz Express,7.333333333333333
+1203,Raptor Race,Squidosaur,4.816666666666666
+1204,Raptor Race,Stegocycles,8.183333333333334
+1205,Raptor Race,Stone Cups,8.233333333333333
+1206,Raptor Race,TerrorSaur,8.1
+1207,Raptor Race,Wendisaurus Chase,5.016666666666667
+1208,Raptor Race,West Entrance,3.533333333333333
+1209,Raptor Race,Wild Jungle Cruise,7.983333333333333
+1210,Raptor Race,Wrightiraptor Mountain,7.016666666666667
+1211,Rhynasaurus Rampage,Atmosfear,3.85
+1212,Rhynasaurus Rampage,Auvilotops Express,6.566666666666666
+1213,Rhynasaurus Rampage,Beelzebufo,12.133333333333333
+1214,Rhynasaurus Rampage,Blue Iguanodon,11.7
+1215,Rhynasaurus Rampage,Central Park Entrance 1,6.9
+1216,Rhynasaurus Rampage,Central Park Entrance 2,7.733333333333333
+1217,Rhynasaurus Rampage,Central Park Entrance 3,7.0
+1218,Rhynasaurus Rampage,Creighton Pavilion,5.733333333333333
+1219,Rhynasaurus Rampage,Cyndisaurus Asteroid,8.583333333333334
+1220,Rhynasaurus Rampage,Dykesadactyl Thrill,6.2
+1221,Rhynasaurus Rampage,East Entrance,5.283333333333333
+1222,Rhynasaurus Rampage,Eberlesaurus Roundup,4.766666666666667
+1223,Rhynasaurus Rampage,Enchanted Toadstools,12.933333333333334
+1224,Rhynasaurus Rampage,Firefall,4.333333333333333
+1225,Rhynasaurus Rampage,Flight of the Swingodon,8.5
+1226,Rhynasaurus Rampage,Flying TyrAndrienkos,11.133333333333333
+1227,Rhynasaurus Rampage,Galactosaurus Rage,4.183333333333334
+1228,Rhynasaurus Rampage,Ichthyoroberts Rapids,11.066666666666666
+1229,Rhynasaurus Rampage,Jeredactyl Jump,13.533333333333333
+1230,Rhynasaurus Rampage,Jurassic Road,6.883333333333334
+1231,Rhynasaurus Rampage,Kauf's Lost Canyon Escape,5.766666666666667
+1232,Rhynasaurus Rampage,Keimosaurus Big Spin,7.716666666666667
+1233,Rhynasaurus Rampage,Kristanodon Kaper,6.816666666666666
+1234,Rhynasaurus Rampage,Liggement Fix-Me-Up,7.933333333333334
+1235,Rhynasaurus Rampage,Maiasaurus Madness,5.483333333333333
+1236,Rhynasaurus Rampage,Mary Anning Beer Garden/Grinosaurus Stage,12.15
+1237,Rhynasaurus Rampage,North Entrance,4.7
+1238,Rhynasaurus Rampage,North Line,14.2
+1239,Rhynasaurus Rampage,Paleocarrie Carousel,5.816666666666666
+1240,Rhynasaurus Rampage,Raptor Race,5.45
+1241,Rhynasaurus Rampage,SabreTooth Theatre,10.65
+1242,Rhynasaurus Rampage,Sauroma Bumpers,11.583333333333334
+1243,Rhynasaurus Rampage,Scholtz Express,5.833333333333333
+1244,Rhynasaurus Rampage,Squidosaur,6.95
+1245,Rhynasaurus Rampage,Stegocycles,10.25
+1246,Rhynasaurus Rampage,Stone Cups,10.533333333333333
+1247,Rhynasaurus Rampage,TerrorSaur,6.8
+1248,Rhynasaurus Rampage,Wendisaurus Chase,5.75
+1249,Rhynasaurus Rampage,West Entrance,3.25
+1250,Rhynasaurus Rampage,Wild Jungle Cruise,10.6
+1251,Rhynasaurus Rampage,Wrightiraptor Mountain,5.8
+1252,SabreTooth Theatre,Atmosfear,5.2
+1253,SabreTooth Theatre,Auvilotops Express,5.55
+1254,SabreTooth Theatre,Beelzebufo,7.95
+1255,SabreTooth Theatre,Blue Iguanodon,8.15
+1256,SabreTooth Theatre,Central Park Entrance 1,13.483333333333333
+1257,SabreTooth Theatre,Central Park Entrance 2,10.75
+1258,SabreTooth Theatre,Central Park Entrance 3,11.283333333333333
+1259,SabreTooth Theatre,Creighton Pavilion,12.033333333333333
+1260,SabreTooth Theatre,Cyndisaurus Asteroid,7.966666666666667
+1261,SabreTooth Theatre,Dykesadactyl Thrill,3.75
+1262,SabreTooth Theatre,East Entrance,3.1333333333333333
+1263,SabreTooth Theatre,Eberlesaurus Roundup,8.35
+1264,SabreTooth Theatre,Enchanted Toadstools,8.016666666666667
+1265,SabreTooth Theatre,Firefall,8.1
+1266,SabreTooth Theatre,Flight of the Swingodon,8.916666666666666
+1267,SabreTooth Theatre,Flying TyrAndrienkos,8.4
+1268,SabreTooth Theatre,Galactosaurus Rage,6.716666666666667
+1269,SabreTooth Theatre,Ichthyoroberts Rapids,6.883333333333334
+1270,SabreTooth Theatre,Jeredactyl Jump,9.0
+1271,SabreTooth Theatre,Jurassic Road,12.716666666666667
+1272,SabreTooth Theatre,Kauf's Lost Canyon Escape,11.5
+1273,SabreTooth Theatre,Keimosaurus Big Spin,5.666666666666667
+1274,SabreTooth Theatre,Kristanodon Kaper,11.0
+1275,SabreTooth Theatre,Liggement Fix-Me-Up,30.05
+1276,SabreTooth Theatre,Maiasaurus Madness,10.65
+1277,SabreTooth Theatre,Mary Anning Beer Garden/Grinosaurus Stage,5.383333333333334
+1278,SabreTooth Theatre,North Entrance,4.5
+1279,SabreTooth Theatre,North Line,26.216666666666665
+1280,SabreTooth Theatre,Paleocarrie Carousel,13.533333333333333
+1281,SabreTooth Theatre,Raptor Race,9.4
+1282,SabreTooth Theatre,Rhynasaurus Rampage,10.65
+1283,SabreTooth Theatre,Sauroma Bumpers,7.933333333333334
+1284,SabreTooth Theatre,Scholtz Express,31.0
+1285,SabreTooth Theatre,Squidosaur,9.75
+1286,SabreTooth Theatre,Stegocycles,6.066666666666666
+1287,SabreTooth Theatre,Stone Cups,6.2
+1288,SabreTooth Theatre,TerrorSaur,3.6
+1289,SabreTooth Theatre,Wendisaurus Chase,6.833333333333333
+1290,SabreTooth Theatre,West Entrance,7.016666666666667
+1291,SabreTooth Theatre,Wild Jungle Cruise,7.35
+1292,SabreTooth Theatre,Wrightiraptor Mountain,6.366666666666666
+1293,Sauroma Bumpers,Atmosfear,6.333333333333333
+1294,Sauroma Bumpers,Auvilotops Express,6.9
+1295,Sauroma Bumpers,Beelzebufo,4.566666666666666
+1296,Sauroma Bumpers,Blue Iguanodon,5.316666666666666
+1297,Sauroma Bumpers,Central Park Entrance 1,12.966666666666667
+1298,Sauroma Bumpers,Central Park Entrance 2,11.266666666666667
+1299,Sauroma Bumpers,Central Park Entrance 3,12.066666666666666
+1300,Sauroma Bumpers,Creighton Pavilion,10.483333333333333
+1301,Sauroma Bumpers,Cyndisaurus Asteroid,6.816666666666666
+1302,Sauroma Bumpers,Dykesadactyl Thrill,6.733333333333333
+1303,Sauroma Bumpers,East Entrance,3.4166666666666665
+1304,Sauroma Bumpers,Eberlesaurus Roundup,8.1
+1305,Sauroma Bumpers,Enchanted Toadstools,5.883333333333334
+1306,Sauroma Bumpers,Firefall,13.333333333333334
+1307,Sauroma Bumpers,Flight of the Swingodon,10.333333333333334
+1308,Sauroma Bumpers,Flying TyrAndrienkos,6.4
+1309,Sauroma Bumpers,Galactosaurus Rage,8.95
+1310,Sauroma Bumpers,Ichthyoroberts Rapids,10.05
+1311,Sauroma Bumpers,Jeredactyl Jump,6.8
+1312,Sauroma Bumpers,Jurassic Road,11.166666666666666
+1313,Sauroma Bumpers,Kauf's Lost Canyon Escape,12.25
+1314,Sauroma Bumpers,Keimosaurus Big Spin,7.583333333333333
+1315,Sauroma Bumpers,Kristanodon Kaper,9.633333333333333
+1316,Sauroma Bumpers,Maiasaurus Madness,11.183333333333334
+1317,Sauroma Bumpers,Mary Anning Beer Garden/Grinosaurus Stage,25.0
+1318,Sauroma Bumpers,North Entrance,2.933333333333333
+1319,Sauroma Bumpers,North Line,7.683333333333334
+1320,Sauroma Bumpers,Paleocarrie Carousel,11.85
+1321,Sauroma Bumpers,Raptor Race,10.15
+1322,Sauroma Bumpers,Rhynasaurus Rampage,11.583333333333334
+1323,Sauroma Bumpers,SabreTooth Theatre,7.933333333333334
+1324,Sauroma Bumpers,Scholtz Express,12.633333333333333
+1325,Sauroma Bumpers,Squidosaur,8.516666666666667
+1326,Sauroma Bumpers,Stegocycles,4.733333333333333
+1327,Sauroma Bumpers,Stone Cups,5.95
+1328,Sauroma Bumpers,TerrorSaur,7.916666666666667
+1329,Sauroma Bumpers,Wendisaurus Chase,9.65
+1330,Sauroma Bumpers,West Entrance,8.516666666666667
+1331,Sauroma Bumpers,Wild Jungle Cruise,6.316666666666666
+1332,Sauroma Bumpers,Wrightiraptor Mountain,8.333333333333334
+1333,Scholtz Express,Atmosfear,4.0
+1334,Scholtz Express,Auvilotops Express,6.266666666666667
+1335,Scholtz Express,Beelzebufo,13.5
+1336,Scholtz Express,Blue Iguanodon,14.8
+1337,Scholtz Express,Central Park Entrance 1,12.916666666666666
+1338,Scholtz Express,Central Park Entrance 2,16.4
+1339,Scholtz Express,Central Park Entrance 3,7.0
+1340,Scholtz Express,Creighton Pavilion,7.75
+1341,Scholtz Express,Cyndisaurus Asteroid,12.466666666666667
+1342,Scholtz Express,Dykesadactyl Thrill,7.883333333333334
+1343,Scholtz Express,East Entrance,7.55
+1344,Scholtz Express,Eberlesaurus Roundup,5.333333333333333
+1345,Scholtz Express,Enchanted Toadstools,14.633333333333333
+1346,Scholtz Express,Firefall,4.533333333333333
+1347,Scholtz Express,Flight of the Swingodon,12.183333333333334
+1348,Scholtz Express,Flying TyrAndrienkos,14.666666666666666
+1349,Scholtz Express,Galactosaurus Rage,5.25
+1350,Scholtz Express,Ichthyoroberts Rapids,9.666666666666666
+1351,Scholtz Express,Jeredactyl Jump,14.85
+1352,Scholtz Express,Jurassic Road,9.083333333333334
+1353,Scholtz Express,Kauf's Lost Canyon Escape,8.816666666666666
+1354,Scholtz Express,Keimosaurus Big Spin,10.05
+1355,Scholtz Express,Kristanodon Kaper,10.383333333333333
+1356,Scholtz Express,Liggement Fix-Me-Up,22.2
+1357,Scholtz Express,Maiasaurus Madness,7.25
+1358,Scholtz Express,Mary Anning Beer Garden/Grinosaurus Stage,12.45
+1359,Scholtz Express,North Entrance,6.733333333333333
+1360,Scholtz Express,North Line,32.55
+1361,Scholtz Express,Paleocarrie Carousel,10.466666666666667
+1362,Scholtz Express,Raptor Race,7.333333333333333
+1363,Scholtz Express,Rhynasaurus Rampage,5.833333333333333
+1364,Scholtz Express,SabreTooth Theatre,31.0
+1365,Scholtz Express,Sauroma Bumpers,12.633333333333333
+1366,Scholtz Express,Squidosaur,7.683333333333334
+1367,Scholtz Express,Stegocycles,13.416666666666666
+1368,Scholtz Express,Stone Cups,14.933333333333334
+1369,Scholtz Express,TerrorSaur,13.183333333333334
+1370,Scholtz Express,Wendisaurus Chase,7.283333333333333
+1371,Scholtz Express,West Entrance,4.8
+1372,Scholtz Express,Wild Jungle Cruise,13.133333333333333
+1373,Scholtz Express,Wrightiraptor Mountain,6.466666666666667
+1374,Squidosaur,Atmosfear,6.583333333333333
+1375,Squidosaur,Auvilotops Express,3.55
+1376,Squidosaur,Beelzebufo,7.083333333333333
+1377,Squidosaur,Blue Iguanodon,7.383333333333334
+1378,Squidosaur,Central Park Entrance 1,11.283333333333333
+1379,Squidosaur,Central Park Entrance 2,10.75
+1380,Squidosaur,Central Park Entrance 3,8.95
+1381,Squidosaur,Creighton Pavilion,9.016666666666667
+1382,Squidosaur,Cyndisaurus Asteroid,8.45
+1383,Squidosaur,Dykesadactyl Thrill,5.3
+1384,Squidosaur,Eberlesaurus Roundup,6.416666666666667
+1385,Squidosaur,Enchanted Toadstools,8.783333333333333
+1386,Squidosaur,Firefall,7.65
+1387,Squidosaur,Flight of the Swingodon,7.166666666666667
+1388,Squidosaur,Flying TyrAndrienkos,8.633333333333333
+1389,Squidosaur,Galactosaurus Rage,6.083333333333333
+1390,Squidosaur,Ichthyoroberts Rapids,9.366666666666667
+1391,Squidosaur,Jeredactyl Jump,11.283333333333333
+1392,Squidosaur,Jurassic Road,7.883333333333334
+1393,Squidosaur,Kauf's Lost Canyon Escape,8.0
+1394,Squidosaur,Keimosaurus Big Spin,8.266666666666667
+1395,Squidosaur,Kristanodon Kaper,7.333333333333333
+1396,Squidosaur,Liggement Fix-Me-Up,37.833333333333336
+1397,Squidosaur,Maiasaurus Madness,6.95
+1398,Squidosaur,Mary Anning Beer Garden/Grinosaurus Stage,13.133333333333333
+1399,Squidosaur,North Entrance,2.3666666666666667
+1400,Squidosaur,North Line,9.983333333333333
+1401,Squidosaur,Paleocarrie Carousel,5.633333333333334
+1402,Squidosaur,Raptor Race,4.816666666666666
+1403,Squidosaur,Rhynasaurus Rampage,6.95
+1404,Squidosaur,SabreTooth Theatre,9.75
+1405,Squidosaur,Sauroma Bumpers,8.516666666666667
+1406,Squidosaur,Scholtz Express,7.683333333333334
+1407,Squidosaur,Stegocycles,7.2
+1408,Squidosaur,Stone Cups,9.616666666666667
+1409,Squidosaur,TerrorSaur,8.983333333333333
+1410,Squidosaur,Wendisaurus Chase,6.55
+1411,Squidosaur,West Entrance,6.0
+1412,Squidosaur,Wild Jungle Cruise,8.766666666666667
+1413,Squidosaur,Wrightiraptor Mountain,7.966666666666667
+1414,Stegocycles,Atmosfear,7.65
+1415,Stegocycles,Auvilotops Express,7.716666666666667
+1416,Stegocycles,Beelzebufo,5.316666666666666
+1417,Stegocycles,Blue Iguanodon,4.616666666666666
+1418,Stegocycles,Central Park Entrance 1,11.283333333333333
+1419,Stegocycles,Central Park Entrance 2,10.616666666666667
+1420,Stegocycles,Central Park Entrance 3,12.4
+1421,Stegocycles,Creighton Pavilion,10.883333333333333
+1422,Stegocycles,Cyndisaurus Asteroid,4.983333333333333
+1423,Stegocycles,Dykesadactyl Thrill,7.5
+1424,Stegocycles,East Entrance,2.3
+1425,Stegocycles,Eberlesaurus Roundup,10.35
+1426,Stegocycles,Enchanted Toadstools,5.683333333333334
+1427,Stegocycles,Firefall,10.6
+1428,Stegocycles,Flight of the Swingodon,7.0
+1429,Stegocycles,Flying TyrAndrienkos,5.066666666666666
+1430,Stegocycles,Galactosaurus Rage,9.466666666666667
+1431,Stegocycles,Ichthyoroberts Rapids,11.1
+1432,Stegocycles,Jeredactyl Jump,3.95
+1433,Stegocycles,Jurassic Road,11.3
+1434,Stegocycles,Kauf's Lost Canyon Escape,10.066666666666666
+1435,Stegocycles,Keimosaurus Big Spin,7.683333333333334
+1436,Stegocycles,Kristanodon Kaper,10.6
+1437,Stegocycles,Liggement Fix-Me-Up,13.266666666666667
+1438,Stegocycles,Maiasaurus Madness,11.0
+1439,Stegocycles,Mary Anning Beer Garden/Grinosaurus Stage,9.633333333333333
+1440,Stegocycles,North Entrance,3.716666666666667
+1441,Stegocycles,North Line,5.65
+1442,Stegocycles,Paleocarrie Carousel,10.016666666666667
+1443,Stegocycles,Raptor Race,8.183333333333334
+1444,Stegocycles,Rhynasaurus Rampage,10.25
+1445,Stegocycles,SabreTooth Theatre,6.066666666666666
+1446,Stegocycles,Sauroma Bumpers,4.733333333333333
+1447,Stegocycles,Scholtz Express,13.416666666666666
+1448,Stegocycles,Squidosaur,7.2
+1449,Stegocycles,Stone Cups,4.4
+1450,Stegocycles,TerrorSaur,7.516666666666667
+1451,Stegocycles,Wendisaurus Chase,9.5
+1452,Stegocycles,West Entrance,7.75
+1453,Stegocycles,Wild Jungle Cruise,5.583333333333333
+1454,Stegocycles,Wrightiraptor Mountain,9.766666666666667
+1455,Stone Cups,Atmosfear,9.233333333333333
+1456,Stone Cups,Auvilotops Express,7.716666666666667
+1457,Stone Cups,Beelzebufo,4.1
+1458,Stone Cups,Blue Iguanodon,5.116666666666666
+1459,Stone Cups,Central Park Entrance 1,11.133333333333333
+1460,Stone Cups,Central Park Entrance 2,8.066666666666666
+1461,Stone Cups,Central Park Entrance 3,8.25
+1462,Stone Cups,Creighton Pavilion,11.416666666666666
+1463,Stone Cups,Cyndisaurus Asteroid,4.75
+1464,Stone Cups,Dykesadactyl Thrill,6.95
+1465,Stone Cups,East Entrance,1.75
+1466,Stone Cups,Eberlesaurus Roundup,10.033333333333333
+1467,Stone Cups,Enchanted Toadstools,5.216666666666667
+1468,Stone Cups,Firefall,10.0
+1469,Stone Cups,Flight of the Swingodon,8.95
+1470,Stone Cups,Flying TyrAndrienkos,5.883333333333334
+1471,Stone Cups,Galactosaurus Rage,11.016666666666667
+1472,Stone Cups,Ichthyoroberts Rapids,8.916666666666666
+1473,Stone Cups,Jeredactyl Jump,4.5
+1474,Stone Cups,Jurassic Road,10.316666666666666
+1475,Stone Cups,Kauf's Lost Canyon Escape,10.383333333333333
+1476,Stone Cups,Keimosaurus Big Spin,8.45
+1477,Stone Cups,Kristanodon Kaper,10.216666666666667
+1478,Stone Cups,Liggement Fix-Me-Up,13.7
+1479,Stone Cups,Maiasaurus Madness,9.283333333333333
+1480,Stone Cups,Mary Anning Beer Garden/Grinosaurus Stage,21.283333333333335
+1481,Stone Cups,North Entrance,5.8
+1482,Stone Cups,North Line,3.9166666666666665
+1483,Stone Cups,Paleocarrie Carousel,9.266666666666667
+1484,Stone Cups,Raptor Race,8.233333333333333
+1485,Stone Cups,Rhynasaurus Rampage,10.533333333333333
+1486,Stone Cups,SabreTooth Theatre,6.2
+1487,Stone Cups,Sauroma Bumpers,5.95
+1488,Stone Cups,Scholtz Express,14.933333333333334
+1489,Stone Cups,Squidosaur,9.616666666666667
+1490,Stone Cups,Stegocycles,4.4
+1491,Stone Cups,TerrorSaur,8.116666666666667
+1492,Stone Cups,Wendisaurus Chase,9.783333333333333
+1493,Stone Cups,West Entrance,12.85
+1494,Stone Cups,Wild Jungle Cruise,4.15
+1495,Stone Cups,Wrightiraptor Mountain,9.866666666666667
+1496,TerrorSaur,Atmosfear,3.2
+1497,TerrorSaur,Auvilotops Express,6.666666666666667
+1498,TerrorSaur,Beelzebufo,9.783333333333333
+1499,TerrorSaur,Blue Iguanodon,9.016666666666667
+1500,TerrorSaur,Central Park Entrance 1,6.333333333333333
+1501,TerrorSaur,Central Park Entrance 2,4.966666666666667
+1502,TerrorSaur,Central Park Entrance 3,3.5
+1503,TerrorSaur,Creighton Pavilion,7.383333333333334
+1504,TerrorSaur,Cyndisaurus Asteroid,9.116666666666667
+1505,TerrorSaur,Dykesadactyl Thrill,2.9
+1506,TerrorSaur,East Entrance,3.65
+1507,TerrorSaur,Eberlesaurus Roundup,9.7
+1508,TerrorSaur,Enchanted Toadstools,6.95
+1509,TerrorSaur,Firefall,7.066666666666666
+1510,TerrorSaur,Flight of the Swingodon,2.95
+1511,TerrorSaur,Flying TyrAndrienkos,7.9
+1512,TerrorSaur,Galactosaurus Rage,5.25
+1513,TerrorSaur,Ichthyoroberts Rapids,4.25
+1514,TerrorSaur,Jeredactyl Jump,6.766666666666667
+1515,TerrorSaur,Jurassic Road,8.45
+1516,TerrorSaur,Kauf's Lost Canyon Escape,6.4
+1517,TerrorSaur,Keimosaurus Big Spin,3.533333333333333
+1518,TerrorSaur,Kristanodon Kaper,8.0
+1519,TerrorSaur,Liggement Fix-Me-Up,22.433333333333334
+1520,TerrorSaur,Maiasaurus Madness,8.333333333333334
+1521,TerrorSaur,Mary Anning Beer Garden/Grinosaurus Stage,4.4
+1522,TerrorSaur,North Entrance,5.133333333333334
+1523,TerrorSaur,North Line,11.566666666666666
+1524,TerrorSaur,Paleocarrie Carousel,10.016666666666667
+1525,TerrorSaur,Raptor Race,8.1
+1526,TerrorSaur,Rhynasaurus Rampage,6.8
+1527,TerrorSaur,SabreTooth Theatre,3.6
+1528,TerrorSaur,Sauroma Bumpers,7.916666666666667
+1529,TerrorSaur,Scholtz Express,13.183333333333334
+1530,TerrorSaur,Squidosaur,8.983333333333333
+1531,TerrorSaur,Stegocycles,7.516666666666667
+1532,TerrorSaur,Stone Cups,8.116666666666667
+1533,TerrorSaur,Wendisaurus Chase,5.883333333333334
+1534,TerrorSaur,West Entrance,4.4
+1535,TerrorSaur,Wild Jungle Cruise,9.15
+1536,TerrorSaur,Wrightiraptor Mountain,5.116666666666666
+1537,Wendisaurus Chase,Atmosfear,5.1
+1538,Wendisaurus Chase,Auvilotops Express,5.283333333333333
+1539,Wendisaurus Chase,Beelzebufo,10.916666666666666
+1540,Wendisaurus Chase,Blue Iguanodon,9.533333333333333
+1541,Wendisaurus Chase,Central Park Entrance 1,8.483333333333333
+1542,Wendisaurus Chase,Central Park Entrance 2,8.25
+1543,Wendisaurus Chase,Central Park Entrance 3,8.0
+1544,Wendisaurus Chase,Creighton Pavilion,7.033333333333333
+1545,Wendisaurus Chase,Cyndisaurus Asteroid,11.333333333333334
+1546,Wendisaurus Chase,Dykesadactyl Thrill,6.666666666666667
+1547,Wendisaurus Chase,East Entrance,5.966666666666667
+1548,Wendisaurus Chase,Eberlesaurus Roundup,6.583333333333333
+1549,Wendisaurus Chase,Enchanted Toadstools,11.716666666666667
+1550,Wendisaurus Chase,Firefall,4.866666666666666
+1551,Wendisaurus Chase,Flight of the Swingodon,7.183333333333334
+1552,Wendisaurus Chase,Flying TyrAndrienkos,12.183333333333334
+1553,Wendisaurus Chase,Galactosaurus Rage,5.533333333333333
+1554,Wendisaurus Chase,Ichthyoroberts Rapids,8.1
+1555,Wendisaurus Chase,Jeredactyl Jump,11.9
+1556,Wendisaurus Chase,Jurassic Road,2.8833333333333333
+1557,Wendisaurus Chase,Kauf's Lost Canyon Escape,5.733333333333333
+1558,Wendisaurus Chase,Keimosaurus Big Spin,7.583333333333333
+1559,Wendisaurus Chase,Kristanodon Kaper,3.2666666666666666
+1560,Wendisaurus Chase,Liggement Fix-Me-Up,10.1
+1561,Wendisaurus Chase,Maiasaurus Madness,6.0
+1562,Wendisaurus Chase,Mary Anning Beer Garden/Grinosaurus Stage,9.283333333333333
+1563,Wendisaurus Chase,North Entrance,4.2
+1564,Wendisaurus Chase,North Line,11.7
+1565,Wendisaurus Chase,Paleocarrie Carousel,4.516666666666667
+1566,Wendisaurus Chase,Raptor Race,5.016666666666667
+1567,Wendisaurus Chase,Rhynasaurus Rampage,5.75
+1568,Wendisaurus Chase,SabreTooth Theatre,6.833333333333333
+1569,Wendisaurus Chase,Sauroma Bumpers,9.65
+1570,Wendisaurus Chase,Scholtz Express,7.283333333333333
+1571,Wendisaurus Chase,Squidosaur,6.55
+1572,Wendisaurus Chase,Stegocycles,9.5
+1573,Wendisaurus Chase,Stone Cups,9.783333333333333
+1574,Wendisaurus Chase,TerrorSaur,5.883333333333334
+1575,Wendisaurus Chase,West Entrance,1.3833333333333333
+1576,Wendisaurus Chase,Wild Jungle Cruise,10.633333333333333
+1577,Wendisaurus Chase,Wrightiraptor Mountain,7.1
+1578,West Entrance,Atmosfear,6.4
+1579,West Entrance,Auvilotops Express,3.7666666666666666
+1580,West Entrance,Beelzebufo,11.483333333333333
+1581,West Entrance,Blue Iguanodon,9.316666666666666
+1582,West Entrance,Central Park Entrance 1,4.8
+1583,West Entrance,Central Park Entrance 2,6.183333333333334
+1584,West Entrance,Central Park Entrance 3,5.083333333333333
+1585,West Entrance,Creighton Pavilion,4.366666666666666
+1586,West Entrance,Cyndisaurus Asteroid,7.65
+1587,West Entrance,Dykesadactyl Thrill,7.416666666666667
+1588,West Entrance,Eberlesaurus Roundup,3.6
+1589,West Entrance,Enchanted Toadstools,10.433333333333334
+1590,West Entrance,Firefall,3.533333333333333
+1591,West Entrance,Flight of the Swingodon,4.116666666666666
+1592,West Entrance,Flying TyrAndrienkos,8.25
+1593,West Entrance,Galactosaurus Rage,4.816666666666666
+1594,West Entrance,Ichthyoroberts Rapids,4.783333333333333
+1595,West Entrance,Jeredactyl Jump,7.816666666666666
+1596,West Entrance,Jurassic Road,1.6666666666666667
+1597,West Entrance,Kauf's Lost Canyon Escape,2.85
+1598,West Entrance,Keimosaurus Big Spin,4.816666666666666
+1599,West Entrance,Kristanodon Kaper,2.816666666666667
+1600,West Entrance,Maiasaurus Madness,4.833333333333333
+1601,West Entrance,Mary Anning Beer Garden/Grinosaurus Stage,51.766666666666666
+1602,West Entrance,North Line,10.233333333333333
+1603,West Entrance,Paleocarrie Carousel,2.35
+1604,West Entrance,Raptor Race,3.533333333333333
+1605,West Entrance,Rhynasaurus Rampage,3.25
+1606,West Entrance,SabreTooth Theatre,7.016666666666667
+1607,West Entrance,Sauroma Bumpers,8.516666666666667
+1608,West Entrance,Scholtz Express,4.8
+1609,West Entrance,Squidosaur,6.0
+1610,West Entrance,Stegocycles,7.75
+1611,West Entrance,Stone Cups,12.85
+1612,West Entrance,TerrorSaur,4.4
+1613,West Entrance,Wendisaurus Chase,1.3833333333333333
+1614,West Entrance,Wild Jungle Cruise,9.616666666666667
+1615,West Entrance,Wrightiraptor Mountain,7.233333333333333
+1616,Wild Jungle Cruise,Atmosfear,7.466666666666667
+1617,Wild Jungle Cruise,Auvilotops Express,7.833333333333333
+1618,Wild Jungle Cruise,Beelzebufo,4.9
+1619,Wild Jungle Cruise,Blue Iguanodon,4.233333333333333
+1620,Wild Jungle Cruise,Central Park Entrance 1,11.066666666666666
+1621,Wild Jungle Cruise,Central Park Entrance 2,10.4
+1622,Wild Jungle Cruise,Central Park Entrance 3,10.416666666666666
+1623,Wild Jungle Cruise,Creighton Pavilion,10.866666666666667
+1624,Wild Jungle Cruise,Cyndisaurus Asteroid,4.216666666666667
+1625,Wild Jungle Cruise,Dykesadactyl Thrill,7.233333333333333
+1626,Wild Jungle Cruise,East Entrance,1.6333333333333333
+1627,Wild Jungle Cruise,Eberlesaurus Roundup,11.383333333333333
+1628,Wild Jungle Cruise,Enchanted Toadstools,4.5
+1629,Wild Jungle Cruise,Firefall,11.85
+1630,Wild Jungle Cruise,Flight of the Swingodon,8.6
+1631,Wild Jungle Cruise,Flying TyrAndrienkos,6.316666666666666
+1632,Wild Jungle Cruise,Galactosaurus Rage,11.333333333333334
+1633,Wild Jungle Cruise,Ichthyoroberts Rapids,10.483333333333333
+1634,Wild Jungle Cruise,Jeredactyl Jump,5.316666666666666
+1635,Wild Jungle Cruise,Jurassic Road,11.0
+1636,Wild Jungle Cruise,Kauf's Lost Canyon Escape,12.733333333333333
+1637,Wild Jungle Cruise,Keimosaurus Big Spin,6.483333333333333
+1638,Wild Jungle Cruise,Kristanodon Kaper,10.6
+1639,Wild Jungle Cruise,Liggement Fix-Me-Up,12.183333333333334
+1640,Wild Jungle Cruise,Maiasaurus Madness,10.466666666666667
+1641,Wild Jungle Cruise,Mary Anning Beer Garden/Grinosaurus Stage,13.133333333333333
+1642,Wild Jungle Cruise,North Entrance,5.083333333333333
+1643,Wild Jungle Cruise,North Line,4.7
+1644,Wild Jungle Cruise,Paleocarrie Carousel,11.666666666666666
+1645,Wild Jungle Cruise,Raptor Race,7.983333333333333
+1646,Wild Jungle Cruise,Rhynasaurus Rampage,10.6
+1647,Wild Jungle Cruise,SabreTooth Theatre,7.35
+1648,Wild Jungle Cruise,Sauroma Bumpers,6.316666666666666
+1649,Wild Jungle Cruise,Scholtz Express,13.133333333333333
+1650,Wild Jungle Cruise,Squidosaur,8.766666666666667
+1651,Wild Jungle Cruise,Stegocycles,5.583333333333333
+1652,Wild Jungle Cruise,Stone Cups,4.15
+1653,Wild Jungle Cruise,TerrorSaur,9.15
+1654,Wild Jungle Cruise,Wendisaurus Chase,10.633333333333333
+1655,Wild Jungle Cruise,West Entrance,9.616666666666667
+1656,Wild Jungle Cruise,Wrightiraptor Mountain,10.866666666666667
+1657,Wrightiraptor Mountain,Atmosfear,1.8666666666666667
+1658,Wrightiraptor Mountain,Auvilotops Express,7.483333333333333
+1659,Wrightiraptor Mountain,Beelzebufo,9.483333333333333
+1660,Wrightiraptor Mountain,Blue Iguanodon,9.683333333333334
+1661,Wrightiraptor Mountain,Central Park Entrance 1,4.2
+1662,Wrightiraptor Mountain,Central Park Entrance 2,4.15
+1663,Wrightiraptor Mountain,Central Park Entrance 3,4.216666666666667
+1664,Wrightiraptor Mountain,Creighton Pavilion,4.916666666666667
+1665,Wrightiraptor Mountain,Cyndisaurus Asteroid,9.983333333333333
+1666,Wrightiraptor Mountain,Dykesadactyl Thrill,6.3
+1667,Wrightiraptor Mountain,East Entrance,5.616666666666666
+1668,Wrightiraptor Mountain,Eberlesaurus Roundup,5.583333333333333
+1669,Wrightiraptor Mountain,Enchanted Toadstools,9.5
+1670,Wrightiraptor Mountain,Firefall,4.833333333333333
+1671,Wrightiraptor Mountain,Flight of the Swingodon,4.666666666666667
+1672,Wrightiraptor Mountain,Flying TyrAndrienkos,10.533333333333333
+1673,Wrightiraptor Mountain,Galactosaurus Rage,3.183333333333333
+1674,Wrightiraptor Mountain,Ichthyoroberts Rapids,6.7
+1675,Wrightiraptor Mountain,Jeredactyl Jump,9.5
+1676,Wrightiraptor Mountain,Jurassic Road,9.083333333333334
+1677,Wrightiraptor Mountain,Kauf's Lost Canyon Escape,5.816666666666666
+1678,Wrightiraptor Mountain,Keimosaurus Big Spin,5.333333333333333
+1679,Wrightiraptor Mountain,Kristanodon Kaper,6.233333333333333
+1680,Wrightiraptor Mountain,Liggement Fix-Me-Up,8.433333333333334
+1681,Wrightiraptor Mountain,Maiasaurus Madness,5.783333333333333
+1682,Wrightiraptor Mountain,Mary Anning Beer Garden/Grinosaurus Stage,6.383333333333334
+1683,Wrightiraptor Mountain,North Entrance,5.283333333333333
+1684,Wrightiraptor Mountain,North Line,10.733333333333333
+1685,Wrightiraptor Mountain,Paleocarrie Carousel,5.883333333333334
+1686,Wrightiraptor Mountain,Raptor Race,7.016666666666667
+1687,Wrightiraptor Mountain,Rhynasaurus Rampage,5.8
+1688,Wrightiraptor Mountain,SabreTooth Theatre,6.366666666666666
+1689,Wrightiraptor Mountain,Sauroma Bumpers,8.333333333333334
+1690,Wrightiraptor Mountain,Scholtz Express,6.466666666666667
+1691,Wrightiraptor Mountain,Squidosaur,7.966666666666667
+1692,Wrightiraptor Mountain,Stegocycles,9.766666666666667
+1693,Wrightiraptor Mountain,Stone Cups,9.866666666666667
+1694,Wrightiraptor Mountain,TerrorSaur,5.116666666666666
+1695,Wrightiraptor Mountain,Wendisaurus Chase,7.1
+1696,Wrightiraptor Mountain,West Entrance,7.233333333333333
+1697,Liggement Fix-Me-Up,Beelzebufo,1000.0
+1698,Liggement Fix-Me-Up,East Entrance,1000.0
+1699,Squidosaur,East Entrance,5.333333333333333
+1700,Liggement Fix-Me-Up,Enchanted Toadstools,12.3
+1701,Liggement Fix-Me-Up,Kristanodon Kaper,12.883333333333333
+1702,Blue Iguanodon,Liggement Fix-Me-Up,42.516666666666666
+1703,Dykesadactyl Thrill,Liggement Fix-Me-Up,30.3
+1704,North Line,Liggement Fix-Me-Up,30.666666666666668
+1705,Sauroma Bumpers,Liggement Fix-Me-Up,38.53333333333333
+1706,Liggement Fix-Me-Up,Raptor Race,1000.0
+1707,Liggement Fix-Me-Up,Rhynasaurus Rampage,7.933333333333334
+1708,Liggement Fix-Me-Up,Stegocycles,13.266666666666667
+1709,Beelzebufo,West Entrance,11.483333333333333
+1710,Liggement Fix-Me-Up,Wild Jungle Cruise,12.183333333333334
+1711,Wrightiraptor Mountain,Wild Jungle Cruise,10.866666666666667

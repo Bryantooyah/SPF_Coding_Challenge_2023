@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block body %}
+    <h2><p style="color:blue;">Please upload a ZIP file</p></h2>
+    <form method = "POST" enctype="multipart/form-data" action = "/">   
+        <center><input type="file" name="zipfile" accept=".zip"></center>
+        <h3><p><label for="yes_no_radio">Do you wish to calculate travelling time using our app's data?</label></p></h3>
+        <center>
+            <input type="radio" name="useourtraveltime" value="yes" checked>
+            <label for="yesbutton">Yes</label><br>
+            <input type="radio" name="useourtraveltime" value="no">
+            <label for="nobutton">No, use my own data</label><br>
+            <input type="submit" value="Upload"><p></p>
+        </center>
+    </form>
+{% endblock %}
